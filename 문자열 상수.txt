@@ -1,0 +1,461 @@
+문자열 상수:
+java/util/TreeSet
+<init>
+()V
+viewpoint/Compat
+PATCHES
+[Ljava/lang/Class;
+java/lang/Class
+getSimpleName
+()Ljava/lang/String;
+java/util/Set
+add
+(Ljava/lang/Object;)Z
+fired
+[Z
+reported
+Z
+java/lang/System
+out
+Ljava/io/PrintStream;
+seen
+()I
+name
+(I)Ljava/lang/String;
+makeConcatWithConstants
+(IILjava/lang/String;)Ljava/lang/String;
+java/io/PrintStream
+println
+(Ljava/lang/String;)V
+checked
+java/util/ArrayList
+me/zed_0xff/zombie_buddy/Patch
+getAnnotation
+(Ljava/lang/Class;)Ljava/lang/annotation/Annotation;
+(Ljava/lang/String;)Ljava/lang/String;
+java/util/List
+className
+methodName
+hasMethod
+(Ljava/lang/String;Ljava/lang/String;)Z
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+MEMBERS
+[[Ljava/lang/String;
+hasMember
+isEmpty
+()Z
+(II)Ljava/lang/String;
+[Viewpoint] compat: the game has changed since the mod was written; missing:
+iterator
+()Ljava/util/Iterator;
+java/util/Iterator
+hasNext
+next
+()Ljava/lang/Object;
+java/lang/String
+size
+java/lang/StringBuilder
+length
+
+,
+append
+(Ljava/lang/String;)Ljava/lang/StringBuilder;
+ (
+WHEN
+[Ljava/lang/String;
+(C)Ljava/lang/StringBuilder;
+valueOf
+(Ljava/lang/Object;)Ljava/lang/String;
+lastIndexOf
+(I)I
+substring
+(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+getClassLoader
+()Ljava/lang/ClassLoader;
+forName
+(Ljava/lang/String;ZLjava/lang/ClassLoader;)Ljava/lang/Class;
+getDeclaredMethods
+()[Ljava/lang/reflect/Method;
+java/lang/reflect/Method
+getName
+equals
+getSuperclass
+()Ljava/lang/Class;
+java/lang/ClassNotFoundException
+java/lang/LinkageError
+()
+endsWith
+(Ljava/lang/String;)Z
+getDeclaredFields
+()[Ljava/lang/reflect/Field;
+java/lang/reflect/Field
+java/lang/Object
+viewpoint/Patch_GameLoaded
+viewpoint/Patch_CullAnimals
+viewpoint/Patch_DisplayCursor
+viewpoint/Patch_DrawGeneric
+viewpoint/Patch_InvalidateAll
+viewpoint/Patch_InvalidateLevel
+viewpoint/Patch_IsoCell
+viewpoint/Patch_IsoCursor
+viewpoint/Patch_IsoReticle
+viewpoint/Patch_LightingUpdate
+viewpoint/Patch_LookAngle
+viewpoint/Patch_MouseUpdate
+viewpoint/Patch_Movement
+viewpoint/Patch_MoveVector
+viewpoint/Patch_ReticleX
+viewpoint/Patch_ReticleY
+viewpoint/Patch_Running
+viewpoint/Patch_Sprinting
+viewpoint/Patch_Strafing
+viewpoint/Patch_ViewDistance
+viewpoint/Patch_ViewDistMax
+viewpoint/Patch_VisionCone
+viewpoint/Patch_WeatherFX
+viewpoint/Patch_ZombieScreenX
+viewpoint/Patch_ZombieScreenY
+viewpoint/Patch_SimulationLevel
+viewpoint/Patch_StatsGet
+viewpoint/Patch_ZombieCull
+viewpoint/Patch_HeadSquare
+viewpoint/Patch_KeyDown
+viewpoint/Patch_WindowToggle
+viewpoint/Patch_WindowSmash
+viewpoint/Patch_WindowGlass
+viewpoint/Patch_WindowSync
+viewpoint/Patch_FrameSwap
+viewpoint/Patch_GameRender
+viewpoint/Patch_UiFrameEnd
+viewpoint/Patch_PlayStarted
+viewpoint/Patch_LockFps
+viewpoint/Patch_FramerateUncapped
+viewpoint/Patch_LoadOptions
+viewpoint/Patch_SaveOptions
+viewpoint/Patch_CheckLights
+viewpoint/Patch_SwitchPower
+viewpoint/Patch_ModelSlotUpdate
+viewpoint/Patch_LineOfSight
+viewpoint/Patch_Thunder
+viewpoint/Patch_SoundListener
+viewpoint/Patch_ContextPick
+viewpoint/Patch_PickDoor
+viewpoint/Patch_PickWindow
+viewpoint/Patch_PickWindowFrame
+viewpoint/Patch_PickThumpable
+viewpoint/Patch_PickHoppable
+viewpoint/Patch_PickCorpse
+viewpoint/Patch_PickTree
+viewpoint/Patch_PickVehicle
+viewpoint/Patch_CameraZoom
+viewpoint/Patch_AimFromReticle
+viewpoint/Patch_SkeletonPosed
+viewpoint/Patch_RootMotion
+viewpoint/Patch_MuzzleFlash
+viewpoint/Patch_Explosion
+viewpoint/Patch_RightDelay
+viewpoint/Patch_AnimationTime
+viewpoint/Patch_ZombieHit
+viewpoint/Patch_SoundEmitter
+viewpoint/Patch_Shot
+viewpoint/Patch_ShotCandidates
+viewpoint/Patch_HitList
+viewpoint/Patch_MissedShot
+viewpoint/Patch_CameraTarget
+viewpoint/Patch_TargetedPart
+viewpoint/Patch_BarrelTarget
+viewpoint/Patch_PelletCount
+viewpoint/Patch_ZoomScroll
+viewpoint/Patch_TargetZoom
+viewpoint/Patch_ProgressBarPlace
+viewpoint/Patch_ProgressBarDraw
+viewpoint/Patch_UiRender
+viewpoint/Patch_UiUpdate
+viewpoint/Patch_RelativeFile
+viewpoint/Patch_OffscreenRendered
+viewpoint/Patch_LootRoll
+viewpoint/Patch_ReticleArm
+viewpoint/Patch_AimAxis
+viewpoint/Patch_PadPan
+viewpoint/Patch_PrecisionAim
+viewpoint/Patch_PadButton
+viewpoint/Patch_ModelShader
+viewpoint/Patch_LoadSound
+viewpoint/Patch_ShotGather
+when a game loads
+every frame
+when a chunk changes
+when the game draws its cursor
+while aiming
+every frame on foot
+while moving on foot
+with zombies around
+with zombies out of sight nearby
+when a window opens or closes
+when a window is smashed
+when broken glass is taken out of a window
+when another player changes a window (multiplayer)
+when play starts
+when the game reads its options
+when the game writes its options
+every frame with a switched lamp in the loaded chunks
+every frame with a character that has a model
+when lightning strikes or thunder rumbles, in a storm
+when the mouse moves over the world
+when something in the world is right-clicked
+when a world menu opens
+when a vehicle is right-clicked
+while aiming a firearm
+when a gun fires
+when something explodes
+while the right mouse button is held
+when a zombie is struck
+while a sound plays
+when a weapon swings or fires
+while aiming a firearm with someone in its range
+when a shot hits nothing
+when a shot hits someone
+while aiming a firearm with someone or a vehicle in its range
+while aiming a shotgun with someone in its range
+when the mouse wheel zooms the isometric view, in first or third person
+when the isometric view zooms by itself (driving, running), in first or third person
+while a timed action of the player's runs
+whenever the game draws its UI
+whenever the game updates its UI
+the first time the game looks up a file's name (a model's texture, a zombie's clothes)
+every frame in game
+when a chunk with containers never looked into loads, in single player
+every frame (the game's cursor, moodles and reticle)
+every frame while player 0 plays on a pad
+the first time the game makes a model (an object, an item, a vehicle or clothes first shown)
+the first time a sound file plays (a mod's sound, or the tutorial's voice)
+while aiming a firearm with the crosshair
+zombie.core.skinnedmodel.model.VertexBufferObject
+handle
+owned models (ModelMeshes)
+zombie.iso.fboRenderChunk.FBORenderChunkManager
+sizeChunkStore
+isometric chunk textures let go in first person (IsoChunkTextures)
+vertexFormat
+zombie.core.skinnedmodel.model.ModelSlotRenderData
+rendered
+owned models' textures (CharacterTextures.Snapshot)
+zombie.characters.IsoGameCharacter
+updateModelTextures
+characters' looks spread over frames (CharacterLooks); every look made at once
+characterOutline
+owned characters' outlines (ModelCapture)
+outlineColor
+outlineBehindPlayer
+zombie.core.skinnedmodel.model.IsoObjectModelDrawer
+x
+owned object models (RigidCapture)
+y
+z
+transform
+model
+zombie.core.skinnedmodel.model.WorldItemModelDrawer
+renderer
+owned ground items (RigidCapture)
+modelScript
+texture
+matrixPalette
+tintR
+tintG
+tintB
+hue
+ambientR
+ambientG
+ambientB
+zombie.core.skinnedmodel.model.ItemModelRenderer
+weaponParts
+cullFace
+tintMask
+zombie.core.skinnedmodel.model.ItemModelRenderer$WeaponPartParams
+owned ground items' weapon parts (RigidCapture)
+checkSmartTexture()
+owned ground items' tint masks, blood and fluid (ItemTextures)
+modelTextureName
+smartTexture
+zombie.core.skinnedmodel.DeadBodyAtlas$BodyTexture
+entry
+corpse images waiting for their offsets (WorldMesher)
+zombie.input.Mouse
+the mouse parked while looking (Controls)
+zombie.characters.Stats
+stats
+the game's stat lookup without boxing (GameFixes)
+zombie.erosion.ErosionMain
+noiseMain
+the erosion's trees in the far world (Erosion)
+noiseMoisture
+noiseMinerals
+soilTable
+zombie.erosion.utils.Noise2D
+layers
+perm
+zombie.erosion.utils.Noise2D$Layer
+freq
+amp
+p
+zombie.erosion.categories.NatureTrees
+trees
+soilRef
+spawnChance
+zombie.erosion.categories.NatureBush
+the erosion's plants in the far world (ErosionPlants)
+zombie.erosion.categories.NaturePlants
+zombie.erosion.categories.NatureTrees$TreeInit
+tilesetName
+fmod.fmod.FMODSoundEmitter
+instances
+sounds raised on the terrain relief (SoundLift)
+fmod.fmod.FMODSoundEmitter$EventSound
+eventInstance
+fmod.fmod.FMODSoundEmitter$FileSound
+channel
+is3d
+zombie.CombatManager
+calculateHitChanceData()
+shots where the aim sends them (gunplay.Odds)
+zombie.CombatManager$HitChanceData
+hitChance
+zombie.iso.sprite.IsoReticle
+targetChance
+the reticle's arms at the shot's cone (gunplay.Reticle)
+targetAimPenalty
+zombie.core.physics.BallisticsController
+numberOfSpreadData
+a shotgun's tracers along its pellets (gunplay.Pellets)
+zombie.iso.PlayerCamera
+rightClickXf
+a pad's camera pan held off in the view (PadPan)
+rightClickYf
+GAME_LOADED
+I
+ConstantValue
+CULL_ANIMALS
+DISPLAY_CURSOR
+DRAW_GENERIC
+INVALIDATE_ALL
+INVALIDATE_LEVEL
+ISO_CELL
+ISO_CURSOR
+ISO_RETICLE
+LIGHTING_UPDATE
+LOOK_ANGLE
+MOUSE_UPDATE
+MOVEMENT
+MOVE_VECTOR
+RETICLE_X
+RETICLE_Y
+RUNNING
+SPRINTING
+STRAFING
+VIEW_DISTANCE
+VIEW_DIST_MAX
+VISION_CONE
+WEATHER_FX
+ZOMBIE_SCREEN_X
+ZOMBIE_SCREEN_Y
+SIMULATION_LEVEL
+STATS_GET
+ZOMBIE_CULL
+HEAD_SQUARE
+KEY_DOWN
+WINDOW_TOGGLE
+WINDOW_SMASH
+WINDOW_GLASS
+WINDOW_SYNC
+FRAME_SWAP
+GAME_RENDER
+UI_FRAME_END
+PLAY_STARTED
+LOCK_FPS
+FRAMERATE_UNCAPPED
+LOAD_OPTIONS
+SAVE_OPTIONS
+CHECK_LIGHTS
+SWITCH_POWER
+MODEL_SLOT_UPDATE
+LINE_OF_SIGHT
+THUNDER
+SOUND_LISTENER
+CONTEXT_PICK
+PICK_DOOR
+PICK_WINDOW
+PICK_WINDOW_FRAME
+PICK_THUMPABLE
+PICK_HOPPABLE
+PICK_CORPSE
+PICK_TREE
+PICK_VEHICLE
+CAMERA_ZOOM
+AIM_FROM_RETICLE
+SKELETON_POSED
+ROOT_MOTION
+MUZZLE_FLASH
+EXPLOSION
+RIGHT_DELAY
+ANIMATION_TIME
+ZOMBIE_HIT
+SOUND_EMITTER
+SHOT
+SHOT_CANDIDATES
+HIT_LIST
+MISSED_SHOT
+CAMERA_TARGET
+TARGETED_PART
+BARREL_TARGET
+PELLET_COUNT
+ZOOM_SCROLL
+TARGET_ZOOM
+PROGRESS_PLACE
+PROGRESS_DRAW
+UI_RENDER
+UI_UPDATE
+RELATIVE_FILE
+OFFSCREEN_RENDERED
+LOOT_ROLL
+RETICLE_ARM
+AIM_AXIS
+PAD_PAN
+PRECISION_AIM
+PAD_BUTTON
+MODEL_SHADER
+LOAD_SOUND
+SHOT_GATHER
+Signature
+[Ljava/lang/Class<*>;
+patchNames
+()Ljava/util/Set;
+Code
+LineNumberTable
+StackMapTable
+()Ljava/util/Set<Ljava/lang/String;>;
+hit
+(I)V
+check
+reportFired
+[Ljava/lang/reflect/Method;
+java/lang/Throwable
+[Ljava/lang/reflect/Field;
+<clinit>
+SourceFile
+Compat.java
+BootstrapMethods
+[Viewpoint] patches seen working:  of , now also
+ (no @Patch)
+. ()
+. -  stays off
+[Viewpoint] compat: all  patch targets and  private members found
+[Viewpoint]
+; not yet: . Each is logged when it first runs; one still missing after its situation came up was not applied.
+[Viewpoint] patches seen working:  of
+.
+java/lang/invoke/StringConcatFactory
+(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite;
+InnerClasses
+java/lang/invoke/MethodHandles$Lookup
+java/lang/invoke/MethodHandles
+Lookup
