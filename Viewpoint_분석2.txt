@@ -1,0 +1,178 @@
+﻿===== viewpoint/build.properties =====
+release=true
+version=0.1.6.1
+date=2026-10-16
+setupEdition=1
+
+
+===== viewpoint/platform/Build.class =====
+viewpoint/platform/Build
+/viewpoint/build.properties
+/no /viewpoint/build.properties in the mod's JAR
+version
+VERSION
+setupEdition
+SETUP_EDITION
+Build.java
+
+===== viewpoint/platform/Settings.class =====
+[Viewpoint] chunkGridWidth in viewpoint.properties is no longer read: the game keeps its own chunk grid, and the far world covers the distance
+
+===== viewpoint/platform/SettingsWindow.class =====
+Controls/Camera
+Keys/Free camera
+Debug/Camera
+Debug/Camera profiles
+Debug/Setup
+Debug/Free camera
+blockGameMouse
+
+===== viewpoint/platform/LiveSettings.class =====
+tViewpoint's live settings: the settings window (Delete) writes this file. Edit it by hand only with the game closed.
+ declared twice: the window lists both
+
+===== viewpoint/platform/SettingRows.class =====
+
+===== viewpoint/platform/SettingsPages.class =====
+viewpoint/platform/Build
+VERSION
+Camera
+Camera profiles
+GAMEPAD
+Credits, build and licences
+Version 
+ has no settings in this version.
+
+===== viewpoint/Compat.class =====
+L[Viewpoint] compat: the game has changed since the mod was written; missing:
+java/lang/StringBuilder
+-(Ljava/lang/String;)Ljava/lang/StringBuilder;
+(C)Ljava/lang/StringBuilder;
+getDeclaredMethods
+getDeclaredFields
+viewpoint/Patch_GameLoaded
+viewpoint/Patch_GameRender
+viewpoint/Patch_CameraZoom
+viewpoint/Patch_CameraTarget
+when a game loads
+when the game draws its cursor
+when the game reads its options
+ when the game writes its options
+whenever the game draws its UI
+ whenever the game updates its UI
+Vthe first time the game looks up a file's name (a model's texture, a zombie's clothes)
+every frame in game
+4every frame (the game's cursor, moodles and reticle)
+\the first time the game makes a model (an object, an item, a vehicle or clothes first shown)
+Bisometric chunk textures let go in first person (IsoChunkTextures)
+"zombie.characters.IsoGameCharacter
+1the game's stat lookup without boxing (GameFixes)
+zombie.iso.PlayerCamera
+0a pad's camera pan held off in the view (PadPan)
+GAME_LOADED
+GAME_RENDER
+CAMERA_ZOOM
+CAMERA_TARGET
+
+===== viewpoint/FP.class =====
+zombie/iso/IsoCamera
+!Lzombie/iso/IsoCamera$FrameState;
+zombie/iso/IsoCamera$FrameState
+game
+building
+getCameraCharacter
+&()Lzombie/characters/IsoGameCharacter;
+'(Lzombie/characters/IsoGameCharacter;)V
+"zombie/characters/IsoGameCharacter
+viewpoint/game/Teleport
+;(Lzombie/iso/IsoCell;Lzombie/characters/IsoGameCharacter;)V
+viewpoint/game/IsoChunkTextures
+R(Lviewpoint/core/Frame;Lzombie/iso/IsoCell;Lzombie/characters/IsoGameCharacter;I)V
+:[Viewpoint] disabled after error while building the scene:
+building the scene
+viewpoint/camera/ThirdPerson
+zombie/GameTime
+isGamePaused
+FIRST_PERSON
+viewpoint/platform/BuildPin
+supported
+((Lzombie/characters/IsoGameCharacter;Z)V
+onCamera
+=(Lzombie/characters/IsoGameCharacter;Lviewpoint/core/Frame;)V
+R(Lviewpoint/core/Frame;Lzombie/iso/IsoCell;Lzombie/characters/IsoGameCharacter;F)V
+^(Lviewpoint/core/Frame;Lzombie/characters/IsoGameCharacter;Lviewpoint/render/FarRelief$Lift;)V
+=(Lviewpoint/core/Frame;Lzombie/characters/IsoGameCharacter;)V
+Q(Lviewpoint/core/Frame;Lzombie/iso/IsoCell;Lzombie/characters/IsoGameCharacter;)V
+>(Lviewpoint/core/Frame;Lzombie/characters/IsoGameCharacter;I)V
+viewpoint/game/WorldText
+gameLoaded
+viewpoint/game/LightCheck
+ (the game's own; the near world reaches 
+
+===== viewpoint/Main.class =====
+viewpoint/platform/BuildPin
+supported
+viewpoint/game/FrameCaps
+
+===== viewpoint/camera/CameraSettings.class =====
+viewpoint/camera/CameraSettings
+camera.motion
+Camera motion
+camera.shake
+Camera shake
+camera.recoil
+Camera recoil
+camera.gunKick
+camera.melee
+camera.hitPause
+camera.fovEffects
+camera.distance
+Camera distance
+camera.height
+Camera height
+camera.aimHeight
+Camera height aiming
+camera.side
+Camera side offset
+camera.aimSide
+Camera side offset aiming
+camera.vehicleDistance
+Vehicle camera distance
+camera.vehicleHeight
+Vehicle camera height
+camera.vehicleSide
+Vehicle camera side offset
+camera.thirdPersonOnFoot
+camera.thirdPersonSeated
+camera.shoulder
+camera.autoSwap
+camera.vehicleBehind
+Vehicle camera returns behind
+camera.aimSensitivity
+camera.dissolvePlants
+camera.showRig
+#Show the rig (from the free camera)
+Debug/Camera
+Whether the view is behind the shoulder or at the eyes on foot. The key that switches the camera sets it, and a vehicle keeps a choice of its own.
+Whether the view is behind the vehicle or at the eyes while seated in one. The key that switches the camera sets it while seated.
+How much the camera moves on its own: the drift of a camera held by hand, the bob of the steps and the lean into turns. Lower it if the motion makes you feel unwell.
+How much the camera shakes when you are hit, bitten or land hard, and with explosions and thunder near, in first and third person.
+aHow much a shot kicks the camera, in first and third person. Where the shot goes does not change.
+oHow much a melee swing moves the camera, and how hard a blow jolts it when it lands, in first and third person.
+How far behind the character the camera stands, in every state. The character keeps its size on the screen whatever the third-person field of view.
+How far above its usual height the camera stands, in every state (squares; below 0, lower). The camera still looks where you look, so the character sits lower on the screen.
+RThe same while aiming: the camera moves between the two as aiming starts and ends.
+How much further out over the shoulder the camera stands (squares; below 0, nearer the middle). It follows the shoulder when the camera swaps.
+In a vehicle: how far behind it the camera stands. The vehicle keeps its size on the screen whatever the third-person field of view.
+IIn a vehicle: how far above its usual height the camera stands (squares).
+cIn a vehicle: how far to the right of the middle the camera stands (squares; below 0, to the left).
+NWhich shoulder the camera looks over. The shoulder key swaps it while playing.
+nThe camera moves to the other shoulder when a wall is in the way, and back when it clears. Never while aiming.
+How fast the view turns while aiming, on top of the zoom's own: 1 keeps a turn the same across the screen however far the view is zoomed in. A pad's stick takes it in first person too.
+MBushes and trees between the camera and the character dissolve, as models do.
+With the free camera on, draws the third-person camera's rig: the pivot, the shoulder, the camera wanted and the camera placed.
+CameraSettings.java
+
+===== viewpoint/input/Camera.class =====
+viewpoint/input/Camera
+Camera.java
