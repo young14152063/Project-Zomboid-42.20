@@ -1,0 +1,2589 @@
+﻿LOG  : Lua          f:0> :	ATA2Tuning|VanMechanic|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMechanic|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMechanic|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMechanic|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMechanic added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMetalworker added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanUtility added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanMail added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Creature added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_LadyDelighter added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Mural added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Space added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Trippy added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Valkyrie added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWindowMiddleLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWindowMiddleRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionDoorMiddleLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionDoorMiddleRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeatsAirportShuttle added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWindowMiddleLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWindowMiddleRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionDoorMiddleLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionDoorMiddleRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2InteractiveTrunkRoofRack is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanSeats_Prison added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanRadio_3N added successfully.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance is vehicle.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionWindowFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionWindowFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionWindshield is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionWindshieldRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2Bullbar is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionDoorsRear is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionHood is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionDoorFrontLeft is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionDoorFrontRight is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2RoofLightFront is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2ProtectionWheels is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2AirScoop is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance|part ATA2Snorkel is found.
+LOG  : Lua          f:0> :	ATA2Tuning|VanAmbulance added successfully.
+LOG  : General      f:0> GlobalModData -> can only request from Client.
+LOG  : Lua          f:0> :	[CompanionDogs 0.7.4] [CD-TUNE] in effect (* = set by an admin): COMPANION_TICK_INTERVAL=20 | FOLLOW_TICK_INTERVAL=2 | DENSE_SYNC_MS=50 | FOLLOW_STREAM_MS=50 | FOLLOW_STREAM_RANGE=40 | FOLLOW_STREAM_MAX_DOGS=12 | REGION_TTL_MS=300 | REGION_REUSE_TILES=4 | COMBAT_REGION_RADIUS=12 | COMBAT_REGION_MAX_TILES=700 | TRICK_SNIFF_SCAN_BUDGET=500 | TRICK_SNIFF_TICK_QUOTA=1500 | SCAN_QUIET_STREAK=4 | SCAN_QUIET_SKIP_MAX=3 | UNREACH_PRUNE_MIN=10 | LOADCHUNK_SCANS_PER_SEC=32 | LOADCHUNK_SCANS_PER_TICK=4 | LOADCHUNK_QUEUE_MAX=4096 | LOADCHUNK_DETECT_WEIGHT=8 | LOADCHUNK_MEMO_CONFIRMS=2 | NET_AUTH_REPORT_MS=200 | NET_AUTH_IDLE_REPORT_MS=400 | NET_AUTH_LONE_MULT=5 | NET_AUTH_LONE_MAX_MS=3000 | NET_AUTH_GRANT_DIST=20 | measurement: off
+LOG  : Lua          f:0> :	LSO Mod: Aplicando atributos a las Satchels Legendarias...
+LOG  : Lua          f:0> :	 - BagCapacity:	49
+LOG  : Lua          f:0> :	 - BagRunSpeedModifier:	0.99
+LOG  : Lua          f:0> :	 - BagWeightReduction:	99
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Grey
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Pink
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Black
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Green
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Brown
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Orange
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Purple
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Blue
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Red
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_White
+LOG  : Lua          f:0> :	Modificando: LS.Bag_LegendarySatchel_Yellow
+LOG  : Lua          f:0> :	LFO Mod: Aplicando atributos a las Ri�oneras Legendarias...
+LOG  : Lua          f:0> :	 - FannyCapacity:	10
+LOG  : Lua          f:0> :	 - FannyRunSpeedModifier:	0.99
+LOG  : Lua          f:0> :	 - FannyWeightReduction:	99
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Grey
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Grey
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Pink
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Pink
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Black
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Black
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Green
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Green
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Brown
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Brown
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Orange
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Orange
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Purple
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Purple
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Blue
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Blue
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Red
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Red
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_White
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_White
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackFront_Legendary_Yellow
+LOG  : Lua          f:0> :	Modificando: LF.Bag_FannypackBack_Legendary_Yellow
+LOG  : Lua          f:0> :	LDO Mod: Aplicando atributos a las Duffelbags Legendarias...
+LOG  : Lua          f:0> :	 - BagCapacity:	49
+LOG  : Lua          f:0> :	 - BagRunSpeedModifier:	0.99
+LOG  : Lua          f:0> :	 - BagWeightReduction:	99
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Grey
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Grey_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Pink
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Pink_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Black
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Black_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Green
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Green_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Brown
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Brown_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Red
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Red_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Blue
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Blue_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Orange
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Orange_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Purple
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_Purple_LB
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_White
+LOG  : Lua          f:0> :	Modificando: LD.Bag_LegendaryDuffelbag_White_LB
+LOG  : Lua          f:0> :	LBO Mod: Aplicando atributos a las Mochilas Legendarias...
+LOG  : Lua          f:0> :	 - BagCapacity:	49
+LOG  : Lua          f:0> :	 - BagRunSpeedModifier:	0.99
+LOG  : Lua          f:0> :	 - BagWeightReduction:	99
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Pink
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Black
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Green
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Brown
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Orange
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Purple
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Blue
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_Red
+LOG  : Lua          f:0> :	Modificando: LB.Bag_LegendaryBackpack_White
+LOG  : Lua          f:0> :	LCO Mod: Aplicando atributos a las Gorras Legendarias...
+LOG  : Lua          f:0> :	 - ChanceToFall:	0
+LOG  : Lua          f:0> :	 - Insulation:	0.2
+LOG  : Lua          f:0> :	 - WindResistance:	0.8
+LOG  : Lua          f:0> :	 - WaterResistance:	0.6
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Grey
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Grey_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Pink
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Pink_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Black
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Black_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Green
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Green_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Brown
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Brown_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Orange
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Orange_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Purple
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Purple_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Blue
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Blue_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Red
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_Red_Reverse
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_White
+LOG  : Lua          f:0> :	Modificando: LC.Hat_BaseballCap_Legendary_White_Reverse
+LOG  : Lua          f:0> :	[ImmersiveSnow] vehicle shells: scripts=309 injected=309 already=0 noModel=0 shells=2934 wheels=1104 failed=0 | body pieces: parts=3026 models=22285; skipped: parts byId=1376, models byName=60 attached=1 noScript=287 | 242 ms; variants added: 0 (0 models); shell models made so far: 0
+LOG  : General      f:0> GlobalModData.init() end
+LOG  : General      f:0> InstanceTracker.load() start
+LOG  : General      f:0> InstanceTracker.load() end
+LOG  : General      f:0> ErosionGlobals.Boot() start
+LOG  : General      f:0> ErosionGlobals.Boot() end
+LOG  : General      f:0> WorldDictionary.init() start
+LOG  : General      f:0> WorldDictionary: Checking dictionary...
+ERROR: General      f:0 at InputScript.OnPostWorldDictionaryInit> Invalid input. line: item 20 [Ted.B&Cigarette] flags[AllowFavorite;InheritFavorite]
+LOG  : General      f:0> WorldDictionary.init() end
+LOG  : General      f:0> GameEntityManager.Init() start
+LOG  : General      f:0> GameEntityManager.Init() end
+LOG  : General      f:0> PersistentOutfits.init() start
+LOG  : General      f:0> PersistentOutfits.init() end
+LOG  : General      f:0> IsoMetaGrid.Create: finished loading in 26.766 seconds
+ERROR: Lua          f:0 at Lua(Vanilla).handleMannequinZone    > ERROR: Mannequin zone missing properties in media/maps/Muldraugh, KY/objects.lua coords: 13583, 1299, 0
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/West Point, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Valley Station, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Rosewood, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Riverside, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/March Ridge, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Irvington, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Fallas Lake, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Ekron, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Echo Creek, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/Brandenburg, KY/objects.lua
+WARN : Lua          f:0 at Lua(Vanilla).doMapZones             > can't find map objects file: media/maps/rvupdate/objects.lua
+ERROR: General      f:0 at Basements.mergeRoomsOntoMetaCell    > duplicate RoomDef.metaID for room at 10707,9484,0
+LOG  : General      f:0> Max #ZONES on one chunk is 27
+LOG  : General      f:0> triggerEvent OnLoadedMapZones
+LOG  : General      f:0> ItemConfigurator.Preprocess() start
+LOG  : General      f:0> ItemConfigurator.Preprocess() end
+LOG  : General      f:0> MapCollisionData.init() start
+LOG  : General      f:0> MapCollisionData.init() end
+LOG  : General      f:0> AnimalPopulationManager.init() start
+LOG  : General      f:0> AnimalPopulationManager.init() end
+LOG  : General      f:0> ZombiePopulationManager.init() start
+LOG  : General      f:0> ZombiePopulationManager.init() end
+LOG  : General      f:0> Pathfind init() start
+LOG  : General      f:0> Pathfind init() end
+LOG  : General      f:0> WorldStreamer.create() start
+LOG  : General      f:0> WorldStreamer.create() end
+LOG  : General      f:0> CellLoader.LoadCellBinaryChunk start
+LOG  : General      f:0> CellLoader.LoadCellBinaryChunk start
+LOG  : General      f:0> MapItem.LoadWorldMap() start
+LOG  : General      f:0> MapItem.LoadWorldMap() start
+LOG  : General      f:0> WorldStreamer.isBusy() loop start
+LOG  : General      f:0> WorldStreamer.isBusy() loop end
+LOG  : General      f:0> ERROR: ItemContainer.AddItem: can't find XY_OF
+LOG  : General      f:0> MetaTracker.load() start
+LOG  : General      f:0> MetaTracker.load() end
+LOG  : General      f:0> triggerEvent OnGameTimeLoaded
+LOG  : Lua          f:0> :	[PIP] init -- debug=false isServer=false isClient=false
+LOG  : General      f:0> GlobalObjects.initSystems() start
+LOG  : General      f:0> GlobalObjects.initSystems() end
+LOG  : General      f:0> GameWindow.save() start
+LOG  : General      f:0> Saving worldgen params
+LOG  : General      f:0> Saving GlobalModData
+LOG  : General      f:0> GameWindow.save() end
+LOG  : General      f:0> bWaitForAssetLoadingToFinish2 start
+LOG  : General      f:0> bWaitForAssetLoadingToFinish2 end
+LOG  : General      f:0> FBORenderChunkManager.gameLoaded() start
+LOG  : General      f:0> FBORenderChunkManager.gameLoaded() end
+LOG  : General      f:0> Bullet.initPhysicsMeshes() start
+LOG  : General      f:0> Bullet.initPhysicsMeshes() end
+LOG  : General      f:0> game loading took 40 seconds
+LOG  : General      f:0> STATE: exit zombie.gameStates.GameLoadingState
+LOG  : Lua          f:0> :	1 players found
+LOG  : Lua          f:0> :	player 0 is mouse
+LOG  : Lua          f:0> :	[PAR] U-25 arme -- la passe de re-ancrage tourne
+LOG  : Lua          f:0> :	[PAR] U-25 passe 1 : 0 objet(s) a nos types | 3 slot(s) dispo | index sans slot=0 | mauvais type=0 => 0 a re-ancrer
+LOG  : Lua          f:0> :	SafeUserLogin: Login Protection Enabled
+LOG  : Lua          f:0> :	[SimpleStatus] Showing status bar for player: Bob
+LOG  : Lua          f:0> :	[SimpleStatus] Loading config for player: Bob
+LOG  : Lua          f:0> :	[SimpleStatus] Status bar created for player: Bob
+LOG  : Lua          f:0> :	[Project RPG][StartingSP] New character initialized with 0 SP
+LOG  : Lua          f:0> :	RPG -> RequestSync completed (SP/MP)
+LOG  : Lua          f:0> :	ISMiniHealth(): config file for reading...
+LOG  : Lua          f:0> :	ISMiniHealth(): Read CONFIG_VERSION as current version:	1	1
+LOG  : Lua          f:0> :	ISMiniHealth(): Closed config file.
+LOG  : Lua          f:0> :	[MFSInspectFix] version 1.3.1-underbarrel-guard installed
+LOG  : General      f:0> Game Mode: Sandbox
+LOG  : General      f:0> Sandbox Options:
+LOG  : General      f:0> Zombies 4
+LOG  : General      f:0> Distribution 1
+LOG  : General      f:0> ZombieVoronoiNoise true
+LOG  : General      f:0> ZombieRespawn 4
+LOG  : General      f:0> ZombieMigrate true
+LOG  : General      f:0> DayLength 4
+LOG  : General      f:0> StartYear 1
+LOG  : General      f:0> StartMonth 7
+LOG  : General      f:0> StartDay 9
+LOG  : General      f:0> StartTime 2
+LOG  : General      f:0> DayNightCycle 1
+LOG  : General      f:0> ClimateCycle 1
+LOG  : General      f:0> FogCycle 1
+LOG  : General      f:0> WaterShut 2
+LOG  : General      f:0> ElecShut 2
+LOG  : General      f:0> AlarmDecay 2
+LOG  : General      f:0> WaterShutModifier 13
+LOG  : General      f:0> ElecShutModifier 17
+LOG  : General      f:0> AlarmDecayModifier 14
+LOG  : General      f:0> FoodLootNew 0.8
+LOG  : General      f:0> LiteratureLootNew 0.6
+LOG  : General      f:0> SkillBookLoot 0.6
+LOG  : General      f:0> RecipeResourceLoot 0.6
+LOG  : General      f:0> MedicalLootNew 0.6
+LOG  : General      f:0> SurvivalGearsLootNew 0.6
+LOG  : General      f:0> CannedFoodLootNew 0.6
+LOG  : General      f:0> WeaponLootNew 0.6
+LOG  : General      f:0> RangedWeaponLootNew 1.2
+LOG  : General      f:0> AmmoLootNew 0.6
+LOG  : General      f:0> MechanicsLootNew 0.6
+LOG  : General      f:0> OtherLootNew 0.8
+LOG  : General      f:0> ClothingLootNew 0.6
+LOG  : General      f:0> ContainerLootNew 0.6
+LOG  : General      f:0> KeyLootNew 0.4
+LOG  : General      f:0> MediaLootNew 0.6
+LOG  : General      f:0> MementoLootNew 0.6
+LOG  : General      f:0> CookwareLootNew 0.6
+LOG  : General      f:0> MaterialLootNew 0.6
+LOG  : General      f:0> FarmingLootNew 0.6
+LOG  : General      f:0> ToolLootNew 0.6
+LOG  : General      f:0> RollsMultiplier 1.0
+LOG  : General      f:0> LootItemRemovalList 
+LOG  : General      f:0> RemoveStoryLoot false
+LOG  : General      f:0> RemoveZombieLoot false
+LOG  : General      f:0> ZombiePopLootEffect 0
+LOG  : General      f:0> InsaneLootFactor 0.05
+LOG  : General      f:0> ExtremeLootFactor 0.2
+LOG  : General      f:0> RareLootFactor 0.6
+LOG  : General      f:0> NormalLootFactor 1.0
+LOG  : General      f:0> CommonLootFactor 2.0
+LOG  : General      f:0> AbundantLootFactor 3.0
+LOG  : General      f:0> Temperature 3
+LOG  : General      f:0> Rain 3
+LOG  : General      f:0> ErosionSpeed 4
+LOG  : General      f:0> ErosionDays 0
+LOG  : General      f:0> Farming 3
+LOG  : General      f:0> CompostTime 2
+LOG  : General      f:0> StatsDecrease 3
+LOG  : General      f:0> NatureAbundance 3
+LOG  : General      f:0> Alarm 4
+LOG  : General      f:0> LockedHouses 6
+LOG  : General      f:0> StarterKit false
+LOG  : General      f:0> Nutrition true
+LOG  : General      f:0> FoodRotSpeed 3
+LOG  : General      f:0> FridgeFactor 3
+LOG  : General      f:0> SeenHoursPreventLootRespawn 0
+LOG  : General      f:0> HoursForLootRespawn 0
+LOG  : General      f:0> MaxItemsForLootRespawn 5
+LOG  : General      f:0> ConstructionPreventsLootRespawn true
+LOG  : General      f:0> WorldItemRemovalList Base.Hat, Base.Glasses, Base.Maggots, Base.Slug, Base.Slug2, Base.Snail, Base.Worm, Base.Dung_Mouse, Base.Dung_Rat
+LOG  : General      f:0> HoursForWorldItemRemoval 24.0
+LOG  : General      f:0> ItemRemovalListBlacklistToggle false
+LOG  : General      f:0> TimeSinceApo 1
+LOG  : General      f:0> PlantResilience 3
+LOG  : General      f:0> PlantAbundance 3
+LOG  : General      f:0> EndRegen 3
+LOG  : General      f:0> Helicopter 2
+LOG  : General      f:0> MetaEvent 2
+LOG  : General      f:0> SleepingEvent 1
+LOG  : General      f:0> GeneratorFuelConsumption 0.1
+LOG  : General      f:0> GeneratorSpawning 4
+LOG  : General      f:0> AnnotatedMapChance 4
+LOG  : General      f:0> CharacterFreePoints 0
+LOG  : General      f:0> ConstructionBonusPoints 3
+LOG  : General      f:0> NightDarkness 3
+LOG  : General      f:0> NightLength 3
+LOG  : General      f:0> BoneFracture true
+LOG  : General      f:0> InjurySeverity 2
+LOG  : General      f:0> HoursForCorpseRemoval 216.0
+LOG  : General      f:0> DecayingCorpseHealthImpact 3
+LOG  : General      f:0> ZombieHealthImpact false
+LOG  : General      f:0> BloodLevel 3
+LOG  : General      f:0> ClothingDegradation 3
+LOG  : General      f:0> FireSpread true
+LOG  : General      f:0> DaysForRottenFoodRemoval -1
+LOG  : General      f:0> AllowExteriorGenerator true
+LOG  : General      f:0> MaxFogIntensity 1
+LOG  : General      f:0> MaxRainFxIntensity 1
+LOG  : General      f:0> EnableSnowOnGround true
+LOG  : General      f:0> AttackBlockMovements true
+LOG  : General      f:0> SurvivorHouseChance 3
+LOG  : General      f:0> VehicleStoryChance 3
+LOG  : General      f:0> ZoneStoryChance 3
+LOG  : General      f:0> AllClothesUnlocked false
+LOG  : General      f:0> EnableTaintedWaterText true
+LOG  : General      f:0> EnableVehicles true
+LOG  : General      f:0> CarSpawnRate 3
+LOG  : General      f:0> ZombieAttractionMultiplier 1.0
+LOG  : General      f:0> VehicleEasyUse false
+LOG  : General      f:0> InitialGas 2
+LOG  : General      f:0> FuelStationGasInfinite false
+LOG  : General      f:0> FuelStationGasMin 0.0
+LOG  : General      f:0> FuelStationGasMax 0.8
+LOG  : General      f:0> FuelStationGasEmptyChance 20
+LOG  : General      f:0> LockedCar 4
+LOG  : General      f:0> CarGasConsumption 1.0
+LOG  : General      f:0> CarGeneralCondition 3
+LOG  : General      f:0> CarDamageOnImpact 3
+LOG  : General      f:0> DamageToPlayerFromHitByACar 1
+LOG  : General      f:0> TrafficJam true
+LOG  : General      f:0> CarAlarm 3
+LOG  : General      f:0> PlayerDamageFromCrash true
+LOG  : General      f:0> SirenShutoffHours 0.0
+LOG  : General      f:0> ChanceHasGas 2
+LOG  : General      f:0> RecentlySurvivorVehicles 2
+LOG  : General      f:0> MultiHitZombies false
+LOG  : General      f:0> RearVulnerability 3
+LOG  : General      f:0> SirenEffectsZombies true
+LOG  : General      f:0> AnimalStatsModifier 4
+LOG  : General      f:0> AnimalMetaStatsModifier 4
+LOG  : General      f:0> AnimalPregnancyTime 4
+LOG  : General      f:0> AnimalAgeModifier 4
+LOG  : General      f:0> AnimalMilkIncModifier 4
+LOG  : General      f:0> AnimalWoolIncModifier 4
+LOG  : General      f:0> AnimalRanchChance 5
+LOG  : General      f:0> AnimalGrassRegrowTime 240
+LOG  : General      f:0> AnimalMetaPredator false
+LOG  : General      f:0> AnimalMatingSeason true
+LOG  : General      f:0> AnimalEggHatch 4
+LOG  : General      f:0> AnimalSoundAttractZombies true
+LOG  : General      f:0> AnimalTrackChance 4
+LOG  : General      f:0> AnimalPathChance 4
+LOG  : General      f:0> MaximumRatIndex 25
+LOG  : General      f:0> DaysUntilMaximumRatIndex 90
+LOG  : General      f:0> MetaKnowledge 3
+LOG  : General      f:0> SeeNotLearntRecipe true
+LOG  : General      f:0> MaximumLootedBuildingRooms 50
+LOG  : General      f:0> EnablePoisoning 1
+LOG  : General      f:0> MaggotSpawn 1
+LOG  : General      f:0> LightBulbLifespan 2.0
+LOG  : General      f:0> FishAbundance 2
+LOG  : General      f:0> LevelForMediaXPCutoff 3
+LOG  : General      f:0> LevelForDismantleXPCutoff 0
+LOG  : General      f:0> BloodSplatLifespanDays 0
+LOG  : General      f:0> LiteratureCooldown 45
+LOG  : General      f:0> NegativeTraitsPenalty 1
+LOG  : General      f:0> MinutesPerPage 2.0
+LOG  : General      f:0> KillInsideCrops true
+LOG  : General      f:0> PlantGrowingSeasons true
+LOG  : General      f:0> PlaceDirtAboveground false
+LOG  : General      f:0> FarmingSpeedNew 1.0
+LOG  : General      f:0> FarmingAmountNew 1.0
+LOG  : General      f:0> MaximumLooted 25
+LOG  : General      f:0> DaysUntilMaximumLooted 90
+LOG  : General      f:0> RuralLooted 0.5
+LOG  : General      f:0> MaximumDiminishedLoot 20
+LOG  : General      f:0> DaysUntilMaximumDiminishedLoot 3650
+LOG  : General      f:0> MuscleStrainFactor 0.7
+LOG  : General      f:0> DiscomfortFactor 0.8
+LOG  : General      f:0> WoundInfectionFactor 1.0
+LOG  : General      f:0> NoBlackClothes true
+LOG  : General      f:0> EasyClimbing false
+LOG  : General      f:0> MaximumFireFuelHours 8
+LOG  : General      f:0> FirearmUseDamageChance 2
+LOG  : General      f:0> FirearmNoiseMultiplier 1.0
+LOG  : General      f:0> FirearmJamMultiplier 1.0
+LOG  : General      f:0> FirearmMoodleMultiplier 1.0
+LOG  : General      f:0> FirearmWeatherMultiplier 1.0
+LOG  : General      f:0> FirearmHeadGearEffect true
+LOG  : General      f:0> ClayLakeChance 0.05
+LOG  : General      f:0> ClayRiverChance 0.05
+LOG  : General      f:0> GeneratorTileRange 20
+LOG  : General      f:0> GeneratorVerticalPowerRange 3
+LOG  : General      f:0> SpawnFrequency 4
+LOG  : General      f:0> AllowMiniMap false
+LOG  : General      f:0> AllowWorldMap true
+LOG  : General      f:0> MapAllKnown false
+LOG  : General      f:0> MapNeedsLight true
+LOG  : General      f:0> Speed 4
+LOG  : General      f:0> SprinterPercentage 0
+LOG  : General      f:0> Strength 2
+LOG  : General      f:0> Toughness 4
+LOG  : General      f:0> Transmission 1
+LOG  : General      f:0> Mortality 5
+LOG  : General      f:0> Reanimate 3
+LOG  : General      f:0> Cognition 3
+LOG  : General      f:0> DoorOpeningPercentage 0
+LOG  : General      f:0> CrawlUnderVehicle 5
+LOG  : General      f:0> Memory 2
+LOG  : General      f:0> Sight 5
+LOG  : General      f:0> Hearing 5
+LOG  : General      f:0> SpottedLogic true
+LOG  : General      f:0> ThumpNoChasing false
+LOG  : General      f:0> ThumpOnConstruction true
+LOG  : General      f:0> ActiveOnly 1
+LOG  : General      f:0> TriggerHouseAlarm true
+LOG  : General      f:0> ZombiesDragDown true
+LOG  : General      f:0> ZombiesCrawlersDragDown false
+LOG  : General      f:0> ZombiesFenceLunge true
+LOG  : General      f:0> ZombiesArmorFactor 2.0
+LOG  : General      f:0> ZombiesMaxDefense 85
+LOG  : General      f:0> ChanceOfAttachedWeapon 6
+LOG  : General      f:0> ZombiesFallDamage 1.0
+LOG  : General      f:0> DisableFakeDead 1
+LOG  : General      f:0> PlayerSpawnZombieRemoval 1
+LOG  : General      f:0> FenceThumpersRequired 25
+LOG  : General      f:0> FenceDamageMultiplier 1.0
+LOG  : General      f:0> PopulationMultiplier 0.65
+LOG  : General      f:0> PopulationStartMultiplier 1.0
+LOG  : General      f:0> PopulationPeakMultiplier 1.0
+LOG  : General      f:0> PopulationPeakDay 28
+LOG  : General      f:0> RespawnHours 0.0
+LOG  : General      f:0> RespawnUnseenHours 0.0
+LOG  : General      f:0> RespawnMultiplier 0.0
+LOG  : General      f:0> RedistributeHours 12.0
+LOG  : General      f:0> FollowSoundDistance 100
+LOG  : General      f:0> RallyGroupSize 6
+LOG  : General      f:0> RallyGroupSizeVariance 50
+LOG  : General      f:0> RallyTravelDistance 20
+LOG  : General      f:0> RallyGroupSeparation 15
+LOG  : General      f:0> RallyGroupRadius 3
+LOG  : General      f:0> ZombiesCountBeforeDelete 300
+LOG  : General      f:0> Global 1.0
+LOG  : General      f:0> GlobalToggle true
+LOG  : General      f:0> Fitness 1.0
+LOG  : General      f:0> Strength 1.0
+LOG  : General      f:0> Sprinting 1.0
+LOG  : General      f:0> Lightfoot 1.0
+LOG  : General      f:0> Nimble 1.0
+LOG  : General      f:0> Sneak 1.0
+LOG  : General      f:0> Axe 1.0
+LOG  : General      f:0> Blunt 1.0
+LOG  : General      f:0> SmallBlunt 1.0
+LOG  : General      f:0> LongBlade 1.0
+LOG  : General      f:0> SmallBlade 1.0
+LOG  : General      f:0> Spear 1.0
+LOG  : General      f:0> Maintenance 1.0
+LOG  : General      f:0> Woodwork 1.0
+LOG  : General      f:0> Cooking 1.0
+LOG  : General      f:0> Farming 1.0
+LOG  : General      f:0> Doctor 1.0
+LOG  : General      f:0> Electricity 1.0
+LOG  : General      f:0> MetalWelding 1.0
+LOG  : General      f:0> Mechanics 1.0
+LOG  : General      f:0> Tailoring 1.0
+LOG  : General      f:0> Aiming 1.0
+LOG  : General      f:0> Reloading 1.0
+LOG  : General      f:0> Fishing 1.0
+LOG  : General      f:0> Trapping 1.0
+LOG  : General      f:0> PlantScavenging 1.0
+LOG  : General      f:0> FlintKnapping 1.0
+LOG  : General      f:0> Masonry 1.0
+LOG  : General      f:0> Pottery 1.0
+LOG  : General      f:0> Carving 1.0
+LOG  : General      f:0> Husbandry 1.0
+LOG  : General      f:0> Tracking 1.0
+LOG  : General      f:0> Blacksmith 1.0
+LOG  : General      f:0> Butchering 1.0
+LOG  : General      f:0> Glassmaking 1.0
+LOG  : General      f:0> TilesPerMinuteNearPlayer 300
+LOG  : General      f:0> WeatherThreshold 0.25
+LOG  : General      f:0> AlsoCleanAsh true
+LOG  : General      f:0> AlsoCleanDroppings true
+LOG  : General      f:0> AlsoCleanInside false
+LOG  : General      f:0> AlsoCleanVehicles true
+LOG  : General      f:0> VehicleCleanSpeed 0.1
+LOG  : General      f:0> AlsoCleanClothes true
+LOG  : General      f:0> ClothesCleanSpeed 1.0
+LOG  : General      f:0> AlwaysClean false
+LOG  : General      f:0> EnableCook -1
+LOG  : General      f:0> EnableRead -1
+LOG  : General      f:0> EnableClean -1
+LOG  : General      f:0> EnableSterilize -1
+LOG  : General      f:0> EnableRip -1
+LOG  : General      f:0> EnableRepair -1
+LOG  : General      f:0> EnableTailoring -1
+LOG  : General      f:0> EnableMechanics -1
+LOG  : General      f:0> EnableReload -1
+LOG  : General      f:0> EnableDismantle -1
+LOG  : General      f:0> EnableVHS -1
+LOG  : General      f:0> EnableMedicine -1
+LOG  : General      f:0> EnableExercise -1
+LOG  : General      f:0> EnableOpen -1
+LOG  : General      f:0> SpawnRate 30
+LOG  : General      f:0> SidecarSpawnRate 30
+LOG  : General      f:0> WalkSpeedMultiplier 2.2
+LOG  : General      f:0> RunSpeedMultiplier 3.1
+LOG  : General      f:0> ImmersiveMode true
+LOG  : General      f:0> LoadPenaltyEnabled true
+LOG  : General      f:0> MaxTurnPenalty 50
+LOG  : General      f:0> MaxSpeedPenalty 35
+LOG  : General      f:0> ZombieSlowdownEnabled true
+LOG  : General      f:0> ZombieSlowdownStrength 100
+LOG  : General      f:0> ZombieContactSensitivity 30
+LOG  : General      f:0> General_KillCounter true
+LOG  : General      f:0> General_SpawnMultiplier 1.0
+LOG  : General      f:0> General_DensityScore true
+LOG  : General      f:0> General_OriginalBandits true
+LOG  : General      f:0> General_BleedOut true
+LOG  : General      f:0> General_Infection true
+LOG  : General      f:0> General_LimitedEndurance true
+LOG  : General      f:0> General_RunAway true
+LOG  : General      f:0> General_SmashWindow true
+LOG  : General      f:0> General_RemoveBarricade true
+LOG  : General      f:0> General_DestroyThumpable true
+LOG  : General      f:0> General_SabotageVehicles true
+LOG  : General      f:0> General_Theft true
+LOG  : General      f:0> General_SabotageCrops true
+LOG  : General      f:0> General_EnterVehicles false
+LOG  : General      f:0> General_GeneratorCutoff true
+LOG  : General      f:0> General_Speak true
+LOG  : General      f:0> General_Captions true
+LOG  : General      f:0> General_SneakAtNight true
+LOG  : General      f:0> General_CarryTorches true
+LOG  : General      f:0> General_ArrivalIcon true
+LOG  : General      f:0> General_OverallAccuracy 3
+LOG  : General      f:0> General_DefenderLootAmount 5
+LOG  : General      f:0> General_CorpseSwapper true
+LOG  : General      f:0> DropRate 5.0
+LOG  : General      f:0> LooseRoundsMax 10
+LOG  : General      f:0> ArmedZombiesOnly false
+LOG  : General      f:0> AmmoBullets9mm true
+LOG  : General      f:0> AmmoBullets45 true
+LOG  : General      f:0> AmmoBullets44 true
+LOG  : General      f:0> AmmoBullets38 true
+LOG  : General      f:0> AmmoShotgunShells true
+LOG  : General      f:0> Ammo3030Bullets true
+LOG  : General      f:0> AmmoBullets357 true
+LOG  : General      f:0> Ammo308Bullets true
+LOG  : General      f:0> Ammo556Bullets true
+LOG  : General      f:0> DropRate 0.5
+LOG  : General      f:0> ArmedZombiesOnly false
+LOG  : General      f:0> MagazineLoaded 50.0
+LOG  : General      f:0> Mags9mm true
+LOG  : General      f:0> Mags45 true
+LOG  : General      f:0> Mags44 true
+LOG  : General      f:0> Mags38 true
+LOG  : General      f:0> MagsShotgun true
+LOG  : General      f:0> Mags3030 true
+LOG  : General      f:0> Mags357 true
+LOG  : General      f:0> Mags308 true
+LOG  : General      f:0> Mags556 true
+LOG  : General      f:0> ConditionLossPercentageThreshold 100
+LOG  : General      f:0> Modifier 0.5
+LOG  : General      f:0> SmokingTime 460
+LOG  : General      f:0> NotSmokerNotSickness false
+LOG  : General      f:0> NotSmokerSmokerEffect false
+LOG  : General      f:0> ObviousCollecting true
+LOG  : General      f:0> DisableLoot false
+LOG  : General      f:0> LootMultiplier 1.0
+LOG  : General      f:0> PryingMechanic true
+LOG  : General      f:0> PryingChanceMultiplier 1.0
+LOG  : General      f:0> PryBuildingDoors true
+LOG  : General      f:0> PryWindows true
+LOG  : General      f:0> WindowShatterChance 20
+LOG  : General      f:0> PryGarageDoors true
+LOG  : General      f:0> PryVehicleDoors true
+LOG  : General      f:0> ShatterVehicleWindows true
+LOG  : General      f:0> PrySafeDoors false
+LOG  : General      f:0> ReinforcedDoorLevel 8
+LOG  : General      f:0> GunStats true
+LOG  : General      f:0> CanWoundChance 33
+LOG  : General      f:0> ReplaceBandage true
+LOG  : General      f:0> WashOnly true
+LOG  : General      f:0> ReloadAllMags true
+LOG  : General      f:0> StairsAlert true
+LOG  : General      f:0> TameThreshold 100
+LOG  : General      f:0> MaxCompanions 0
+LOG  : General      f:0> CombatEnabled true
+LOG  : General      f:0> DogDamageMultiplier 1.0
+LOG  : General      f:0> UpkeepEnabled true
+LOG  : General      f:0> NeedsRateMultiplier 1.0
+LOG  : General      f:0> LoyaltyDecayPerDay 12.0
+LOG  : General      f:0> ProteinNeedEnabled true
+LOG  : General      f:0> ProteinHours 72
+LOG  : General      f:0> SentinelEnabled true
+LOG  : General      f:0> BondingEnabled true
+LOG  : General      f:0> RestedBuffEnabled true
+LOG  : General      f:0> RestedBuffHours 2.0
+LOG  : General      f:0> BreedMoodlesEnabled true
+LOG  : General      f:0> SkillXPRate 0.5
+LOG  : General      f:0> FarmCareEnabled true
+LOG  : General      f:0> TricksEnabled true
+LOG  : General      f:0> DogNoiseAttractsZombies true
+LOG  : General      f:0> ShowNameTags true
+LOG  : General      f:0> DogSpawnMultiplier 1.0
+LOG  : General      f:0> WildDogsInvincible false
+LOG  : General      f:0> DespawnOnOwnerOffline true
+LOG  : General      f:0> CargoCapacityMultiplier 1.0
+LOG  : General      f:0> BreedingEnabled true
+LOG  : General      f:0> GestationDays 4
+LOG  : General      f:0> MaturityDays 90
+LOG  : General      f:0> BreedChancePerDay 5.0
+LOG  : General      f:0> TripOverDogs true
+LOG  : General      f:0> VetCareEnabled true
+LOG  : General      f:0> Death false
+LOG  : General      f:0> VetWoundChance 0.2
+LOG  : General      f:0> VetSprainChance 0.5
+LOG  : General      f:0> VetWormsChance 10.0
+LOG  : General      f:0> VetSpoiledChance 25.0
+LOG  : General      f:0> VetFluChance 15.0
+LOG  : General      f:0> VetHeartwormChance 1.5
+LOG  : General      f:0> VetAllergyChance 5.0
+LOG  : General      f:0> VetInfestChance 0.2
+LOG  : General      f:0> ZombieDamageMultiplier 1.0
+LOG  : General      f:0> ZombiesAffectedMultiplier 1.0
+LOG  : General      f:0> DoorBlockCapacityMultiplier 1.0
+LOG  : General      f:0> ZombieKnockdownChance 35
+LOG  : General      f:0> DoorWearMultiplier 1.0
+LOG  : General      f:0> ForcedOpeningDoorWearMultiplier 1.0
+LOG  : General      f:0> GarageDoorWearMultiplier 1.0
+LOG  : General      f:0> GarageFailureChanceMultiplier 1.0
+LOG  : General      f:0> EnduranceCostMultiplier 1.0
+LOG  : General      f:0> ForcedOpeningFractureRiskMultiplier 1.0
+LOG  : General      f:0> ArmStrainGainMultiplier 1.0
+LOG  : General      f:0> ArmStrainUsageLimitMultiplier 1.0
+LOG  : General      f:0> GarageArmStrainMultiplier 1.0
+LOG  : General      f:0> ArmStrainPenaltyMultiplier 1.0
+LOG  : General      f:0> ArmStrainRecoveryMultiplier 1.0
+LOG  : General      f:0> DamagePlayers true
+LOG  : General      f:0> KnockDownPlayers true
+LOG  : General      f:0> PlayerKnockdownChance 25
+LOG  : General      f:0> AffectCrawlers true
+LOG  : General      f:0> AllowImpactsFromBothSides false
+LOG  : General      f:0> HideIndividualOptions false
+LOG  : General      f:0> GlobalImpactFeedback true
+LOG  : General      f:0> NegativeToPositive false
+LOG  : General      f:0> ReadRemove false
+LOG  : General      f:0> ReadDelete false
+LOG  : General      f:0> DaysBeforeRead 0
+LOG  : General      f:0> SpawnRate 3
+LOG  : General      f:0> SpawnSpeedDemon true
+LOG  : General      f:0> SpawnNutritionist true
+LOG  : General      f:0> SpawnOrganized true
+LOG  : General      f:0> SpawnOutdoorsman true
+LOG  : General      f:0> SpawnFastReader true
+LOG  : General      f:0> SpawnFastLearner true
+LOG  : General      f:0> SpawnHandy true
+LOG  : General      f:0> SpawnAxeMan true
+LOG  : General      f:0> SpawnBurglar true
+LOG  : General      f:0> SpawnGraceful true
+LOG  : General      f:0> SpawnDextrous true
+LOG  : General      f:0> SpawnInconspicuous true
+LOG  : General      f:0> SpawnKeenHearing true
+LOG  : General      f:0> Distance 20
+LOG  : General      f:0> EnableAutoWatering true
+LOG  : General      f:0> WateringInterval 10
+LOG  : General      f:0> WateringRadius 0
+LOG  : General      f:0> SmartPipes true
+LOG  : General      f:0> SmartPipesFillMax 20
+LOG  : General      f:0> SharedWaterPool true
+LOG  : General      f:0> EnableFertigation true
+LOG  : General      f:0> FertigationSkill 5
+LOG  : General      f:0> ChargesPerBag 10
+LOG  : General      f:0> DebugLogs false
+LOG  : General      f:0> ChargeFreq 1
+LOG  : General      f:0> solarPanelEfficiency 25
+LOG  : General      f:0> batteryDegradeChance 100
+LOG  : General      f:0> consumptionMultiplier 100
+LOG  : General      f:0> DIYBatteryMultiplier 100
+LOG  : General      f:0> BatteryBankSpawn 3
+LOG  : General      f:0> LRMSolarPanels 1.0
+LOG  : General      f:0> LRMBatteries 1.0
+LOG  : General      f:0> LRMMisc 1.0
+LOG  : General      f:0> ConnectPanelMin 30
+LOG  : General      f:0> BackupConnectRange 0
+LOG  : General      f:0> PanelConnectRange 20
+LOG  : General      f:0> PanelConnectFloors 3
+LOG  : General      f:0> BackupConnectFloors 1
+LOG  : General      f:0> SolarCrateSpawn 3
+LOG  : General      f:0> HardenedPanelRecipe false
+LOG  : General      f:0> AllowVanillaConnect false
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> SpawnChance 50
+LOG  : General      f:0> MaxTanks 6
+LOG  : General      f:0> FillWeightFull 55
+LOG  : General      f:0> FillWeightEmpty 15
+LOG  : General      f:0> MagazineChance 25
+LOG  : General      f:0> MagazineOnePerSave true
+LOG  : General      f:0> RemoveNewCabinets false
+LOG  : General      f:0> Use_Vanilla_HairColor true
+LOG  : General      f:0> Use_PreviewWindow true
+LOG  : General      f:0> WindowWidth 256
+LOG  : General      f:0> WindowHeight 512
+LOG  : General      f:0> Use_Isometric false
+LOG  : General      f:0> Sandbox_ZomboxivirSpiffoChance 0.3
+LOG  : General      f:0> Sandbox_ZomboxivirChance 100
+LOG  : General      f:0> WoodchipsBagAmount 4
+LOG  : General      f:0> DirtinessReduction 10
+LOG  : General      f:0> FertilizedEggLevel 5
+LOG  : General      f:0> GeneralSection false
+LOG  : General      f:0> WaterTemperatureConcept true
+LOG  : General      f:0> RemainTubFaucetWater 100
+LOG  : General      f:0> RemainShowerFaucetWater 20
+LOG  : General      f:0> RemainingWaterRandomizationIntensity 1
+LOG  : General      f:0> BathItemSpawnChance 3
+LOG  : General      f:0> BathSaltSpawnChance 2
+LOG  : General      f:0> TubFluidContainerSection false
+LOG  : General      f:0> TubWaterCapacity 200
+LOG  : General      f:0> TubRainCollect true
+LOG  : General      f:0> TubWaterGetDirty true
+LOG  : General      f:0> EnableReheat true
+LOG  : General      f:0> AvailableAllFluid false
+LOG  : General      f:0> BathAndShowerSection false
+LOG  : General      f:0> WashInBathConsumeWater 0.8
+LOG  : General      f:0> ShowerConsumeWater 80
+LOG  : General      f:0> BathingBenefitDailyMinutes 30
+LOG  : General      f:0> DisableNegativeEffectsOfBathing false
+LOG  : General      f:0> DisableFeelingStressByGaze false
+LOG  : General      f:0> BodyGrimeSection false
+LOG  : General      f:0> EnableBodyGrime true
+LOG  : General      f:0> WashSelfRemovesGrime true
+LOG  : General      f:0> EnableGrimeWash true
+LOG  : General      f:0> GrimeWashRequiresSoap false
+LOG  : General      f:0> EnableBodyGrimeMoodle true
+LOG  : General      f:0> BodyGrimeIncreasedBase 0.8
+LOG  : General      f:0> BloodToGrimeThreshold 30
+LOG  : General      f:0> DirtToGrimeThreshold 30
+LOG  : General      f:0> BloodAndDirtMultiplier 1.0
+LOG  : General      f:0> GrimeDiscomfort true
+LOG  : General      f:0> GrimeDiscomfort1 0.15
+LOG  : General      f:0> GrimeDiscomfort2 0.3
+LOG  : General      f:0> GrimeDiscomfort3 0.55
+LOG  : General      f:0> GrimeNoxiousSmell true
+LOG  : General      f:0> AreaNameOnly false
+LOG  : General      f:0> WriteRealTime false
+LOG  : General      f:0> WriteRadius 75
+LOG  : General      f:0> WriteInterval 120
+LOG  : General      f:0> AllowFlipInside false
+LOG  : General      f:0> RequireJack false
+LOG  : General      f:0> RequireStrength false
+LOG  : General      f:0> RequireDetach true
+LOG  : General      f:0> DisableFatigue true
+LOG  : General      f:0> DisableStrain true
+LOG  : General      f:0> FlipSpeed 3
+LOG  : General      f:0> LightStrength 2
+LOG  : General      f:0> LightDistance 15
+LOG  : General      f:0> ConditionLoseRate 25
+LOG  : General      f:0> BatteryDuration 2
+LOG  : General      f:0> UseModPreset true
+LOG  : General      f:0> GeneralMultiplier 1.0
+LOG  : General      f:0> CustomWeights ""
+LOG  : General      f:0> Accessory 1.0
+LOG  : General      f:0> Ammo 1.0
+LOG  : General      f:0> Animal 1.0
+LOG  : General      f:0> AnimalPart 1.0
+LOG  : General      f:0> AnimalPartWeapon 1.0
+LOG  : General      f:0> Animals 1.0
+LOG  : General      f:0> Appearance 1.0
+LOG  : General      f:0> Armor 1.0
+LOG  : General      f:0> Assembly 1.0
+LOG  : General      f:0> Badger 1.0
+LOG  : General      f:0> Bag 1.0
+LOG  : General      f:0> Bandage 1.0
+LOG  : General      f:0> Barricades 1.0
+LOG  : General      f:0> Bear 1.0
+LOG  : General      f:0> Beaver 1.0
+LOG  : General      f:0> Blacksmithing 1.0
+LOG  : General      f:0> Blade 1.0
+LOG  : General      f:0> BrokenWeapon 1.0
+LOG  : General      f:0> Bug 1.0
+LOG  : General      f:0> Bunny 1.0
+LOG  : General      f:0> CDs 1.0
+LOG  : General      f:0> Camping 1.0
+LOG  : General      f:0> Carpentry 1.0
+LOG  : General      f:0> Cartography 1.0
+LOG  : General      f:0> Carving 1.0
+LOG  : General      f:0> Clothing 1.0
+LOG  : General      f:0> Communications 1.0
+LOG  : General      f:0> Container 1.0
+LOG  : General      f:0> Cooking 1.0
+LOG  : General      f:0> CookingWeapon 1.0
+LOG  : General      f:0> Cookware 1.0
+LOG  : General      f:0> Corpse 1.0
+LOG  : General      f:0> Debug 1.0
+LOG  : General      f:0> Dog 1.0
+LOG  : General      f:0> Duck 1.0
+LOG  : General      f:0> Ears 1.0
+LOG  : General      f:0> Electrical 1.0
+LOG  : General      f:0> Electronics 1.0
+LOG  : General      f:0> Entertainment 1.0
+LOG  : General      f:0> Explosives 1.0
+LOG  : General      f:0> Eye 1.0
+LOG  : General      f:0> Farming 1.0
+LOG  : General      f:0> FireSource 1.0
+LOG  : General      f:0> Firearm 1.0
+LOG  : General      f:0> FirstAid 1.0
+LOG  : General      f:0> FirstAidWeapon 1.0
+LOG  : General      f:0> Fishing 1.0
+LOG  : General      f:0> FishingWeapon 1.0
+LOG  : General      f:0> Food 1.0
+LOG  : General      f:0> Fox 1.0
+LOG  : General      f:0> Frog 1.0
+LOG  : General      f:0> Furniture 1.0
+LOG  : General      f:0> Gardening 1.0
+LOG  : General      f:0> GardeningWeapon 1.0
+LOG  : General      f:0> Generic 1.0
+LOG  : General      f:0> Glassmaking 1.0
+LOG  : General      f:0> Goblin 1.0
+LOG  : General      f:0> Hedgehog 1.0
+LOG  : General      f:0> Hidden 1.0
+LOG  : General      f:0> Home_VHS 1.0
+LOG  : General      f:0> Household 1.0
+LOG  : General      f:0> HouseholdWeapon 1.0
+LOG  : General      f:0> Instrument 1.0
+LOG  : General      f:0> InstrumentWeapon 1.0
+LOG  : General      f:0> Item 1.0
+LOG  : General      f:0> Junk 1.0
+LOG  : General      f:0> JunkWeapon 1.0
+LOG  : General      f:0> Knapping 1.0
+LOG  : General      f:0> LightSource 1.0
+LOG  : General      f:0> Literature 1.0
+LOG  : General      f:0> MaleBody 1.0
+LOG  : General      f:0> Masonry 1.0
+LOG  : General      f:0> Material 1.0
+LOG  : General      f:0> MaterialWeapon 1.0
+LOG  : General      f:0> Medical 1.0
+LOG  : General      f:0> Memento 1.0
+LOG  : General      f:0> Meta 1.0
+LOG  : General      f:0> Metalworking 1.0
+LOG  : General      f:0> Miscellaneous 1.0
+LOG  : General      f:0> Mole 1.0
+LOG  : General      f:0> Music 1.0
+LOG  : General      f:0> Object 1.0
+LOG  : General      f:0> Outdoors 1.0
+LOG  : General      f:0> Packing 1.0
+LOG  : General      f:0> Paint 1.0
+LOG  : General      f:0> Player 1.0
+LOG  : General      f:0> Pottery 1.0
+LOG  : General      f:0> ProtectiveGear 1.0
+LOG  : General      f:0> Raccoon 1.0
+LOG  : General      f:0> RecipeResource 1.0
+LOG  : General      f:0> Repair 1.0
+LOG  : General      f:0> Retail_VHS 1.0
+LOG  : General      f:0> Security 1.0
+LOG  : General      f:0> SkillBook 1.0
+LOG  : General      f:0> Slash 1.0
+LOG  : General      f:0> Spear 1.0
+LOG  : General      f:0> Spider 1.0
+LOG  : General      f:0> Sports 1.0
+LOG  : General      f:0> SportsWeapon 1.0
+LOG  : General      f:0> Squirrel 1.0
+LOG  : General      f:0> Stab 1.0
+LOG  : General      f:0> Swinging 1.0
+LOG  : General      f:0> Tail 1.0
+LOG  : General      f:0> Tailoring 1.0
+LOG  : General      f:0> Teddy_Bear 1.0
+LOG  : General      f:0> Tool 1.0
+LOG  : General      f:0> ToolWeapon 1.0
+LOG  : General      f:0> Tools 1.0
+LOG  : General      f:0> Trapping 1.0
+LOG  : General      f:0> UI 1.0
+LOG  : General      f:0> Vehicle 1.0
+LOG  : General      f:0> VehicleMaintenance 1.0
+LOG  : General      f:0> VehicleMaintenanceWeapon 1.0
+LOG  : General      f:0> Wall_Coverings 1.0
+LOG  : General      f:0> Water 1.0
+LOG  : General      f:0> WaterContainer 1.0
+LOG  : General      f:0> Weapon 1.0
+LOG  : General      f:0> WeaponCrafted 1.0
+LOG  : General      f:0> WeaponImprovised 1.0
+LOG  : General      f:0> WeaponPart 1.0
+LOG  : General      f:0> Weaponry 1.0
+LOG  : General      f:0> Welding 1.0
+LOG  : General      f:0> World 1.0
+LOG  : General      f:0> Wound 1.0
+LOG  : General      f:0> ZedDmg 1.0
+LOG  : General      f:0> Zombie 1.0
+LOG  : General      f:0> bodywork 1.0
+LOG  : General      f:0> brakes 1.0
+LOG  : General      f:0> door 1.0
+LOG  : General      f:0> engine 1.0
+LOG  : General      f:0> gastank 1.0
+LOG  : General      f:0> lights 1.0
+LOG  : General      f:0> nodisplay 1.0
+LOG  : General      f:0> seat 1.0
+LOG  : General      f:0> suspension 1.0
+LOG  : General      f:0> tire 1.0
+LOG  : General      f:0> MaxHitboxes 6
+LOG  : General      f:0> MaxDistanceFromPlayer 6
+LOG  : General      f:0> BaseRadius 0.46
+LOG  : General      f:0> BasePushForce 0.05
+LOG  : General      f:0> StunRadius 0.65
+LOG  : General      f:0> StunPushForce 0.19
+LOG  : General      f:0> FallingRadius 0.75
+LOG  : General      f:0> FallingPushForce 0.24
+LOG  : General      f:0> DebugMode false
+LOG  : General      f:0> enableMod true
+LOG  : General      f:0> collisionTripChanceSprinters 50
+LOG  : General      f:0> collisionTripChanceFastShamblers 10
+LOG  : General      f:0> collisionTripChanceShamblers 4
+LOG  : General      f:0> randomTripChanceSprinters 7
+LOG  : General      f:0> randomTripChanceFastShamblers 4
+LOG  : General      f:0> randomTripChanceShamblers 2
+LOG  : General      f:0> pileUpTripChance 30
+LOG  : General      f:0> corpseTripChance 23
+LOG  : General      f:0> tripEffect 2
+LOG  : General      f:0> tripCooldownMin 100
+LOG  : General      f:0> tripCooldownMax 150
+LOG  : General      f:0> crawlerChance 0
+LOG  : General      f:0> tripNoise 0
+LOG  : General      f:0> requireChasing false
+LOG  : General      f:0> tripWhileFighting true
+LOG  : General      f:0> ragdollTripChance 100
+LOG  : General      f:0> BackpackVolume 100
+LOG  : General      f:0> LoadVolume 100
+LOG  : General      f:0> RunVolume 100
+LOG  : General      f:0> SprintVolume 100
+LOG  : General      f:0> CrouchVolume 60
+LOG  : General      f:0> OldCigarettesSpawnRate 1.0
+LOG  : General      f:0> SpecialCigarettesSpawnRate 1.0
+LOG  : General      f:0> NewCigarettesSpawnRate 1.0
+LOG  : General      f:0> EnableArmadaKick true
+LOG  : General      f:0> ArmadaKickUnlockLevel 6
+LOG  : General      f:0> ArmadaKickDamage 75.0
+LOG  : General      f:0> ArmadaKickRange 3.0
+LOG  : General      f:0> ArmadaKickAngle 90.0
+LOG  : General      f:0> ArmadaKickCooldown 1.8
+LOG  : General      f:0> ArmadaKickEnduranceCost 6.0
+LOG  : General      f:0> Parkour 1.0
+LOG  : General      f:0> EnableProgression true
+LOG  : General      f:0> UnlockAllParkour false
+LOG  : General      f:0> XPMultiplier 1.0
+LOG  : General      f:0> EnableAntiFarm true
+LOG  : General      f:0> WallRunUnlockLevel 8
+LOG  : General      f:0> UnlockWallRunAtLevel5 false
+LOG  : General      f:0> LoadRestrictionMode 4
+LOG  : General      f:0> InjuryRestrictionMode 2
+LOG  : General      f:0> MinimumEnduranceMultiplier 1.0
+LOG  : General      f:0> EnableEnduranceCosts true
+LOG  : General      f:0> ActionCostMultiplier 1.0
+LOG  : General      f:0> DodgeCostLevel3 10.0
+LOG  : General      f:0> DodgeCostLevel10 6.0
+LOG  : General      f:0> SeparatorLowFenceVaults false
+LOG  : General      f:0> EnableFrontFlip true
+LOG  : General      f:0> EnableCorkscrewVault true
+LOG  : General      f:0> EnableDashVault true
+LOG  : General      f:0> EnableDiveRoll true
+LOG  : General      f:0> EnableLowFenceWindowVault true
+LOG  : General      f:0> EnableWebster true
+LOG  : General      f:0> EnableBackflipVault true
+LOG  : General      f:0> EnableSpeedVault true
+LOG  : General      f:0> EnableVaultOver true
+LOG  : General      f:0> EnableReverseVault true
+LOG  : General      f:0> SeparatorWindowVaults false
+LOG  : General      f:0> EnableWindowVault true
+LOG  : General      f:0> EnableSprintWindowVault true
+LOG  : General      f:0> SeparatorRecoveryAnimations false
+LOG  : General      f:0> EnableFallRollLanding true
+LOG  : General      f:0> EnableGetUpBack true
+LOG  : General      f:0> EnableBumpRecovery true
+LOG  : General      f:0> EnableVaultStumble true
+LOG  : General      f:0> SeparatorHighFenceVaults false
+LOG  : General      f:0> EnableHighFenceFrontFlip true
+LOG  : General      f:0> EnableHighFenceVault02 true
+LOG  : General      f:0> SeparatorMovementActions false
+LOG  : General      f:0> EnableWallRunUp true
+LOG  : General      f:0> EnableFreeJump true
+LOG  : General      f:0> SeparatorDodges false
+LOG  : General      f:0> EnableDodgeForwardRollForward true
+LOG  : General      f:0> EnableDodgeCombatRollForward true
+LOG  : General      f:0> EnableDodgeLowDiveForward true
+LOG  : General      f:0> EnableDodgeCorkscrewEvadeBack true
+LOG  : General      f:0> EnableDodgeBackflipBack true
+LOG  : General      f:0> EnableDodgeSideFlipLeft true
+LOG  : General      f:0> EnableDodgeButterflyRight true
+LOG  : General      f:0> SeparatorDebug false
+LOG  : General      f:0> DebugLogging false
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> ActiveLightsPercent 100
+LOG  : General      f:0> FlickeringLights true
+LOG  : General      f:0> LightDecay 1
+LOG  : General      f:0> MinimumActiveLightsPercent 25
+LOG  : General      f:0> XPMultiplier 1.0
+LOG  : General      f:0> XPperZombieKill 1
+LOG  : General      f:0> XPperPerkLevelup 10
+LOG  : General      f:0> TraitsBlockList 
+LOG  : General      f:0> AllowFrozenCooking false
+LOG  : General      f:0> EnableUrination true
+LOG  : General      f:0> EnableDefecation true
+LOG  : General      f:0> EnableVomiting true
+LOG  : General      f:0> EnableFarting true
+LOG  : General      f:0> EnableBurping true
+LOG  : General      f:0> EnableSneezing true
+LOG  : General      f:0> EnableCoughing true
+LOG  : General      f:0> BowelsMaxValue 500.0
+LOG  : General      f:0> BowelsIncreaseMultiplier 1.0
+LOG  : General      f:0> DefecateSpeedMultiplier 1.0
+LOG  : General      f:0> EnableDiarrhea true
+LOG  : General      f:0> PoopInToiletRequirement 40.0
+LOG  : General      f:0> PoopOnGroundRequirement 50.0
+LOG  : General      f:0> PoopOnSelfRequirement 75.0
+LOG  : General      f:0> CanHavePoopAccident true
+LOG  : General      f:0> NightPoopAccidents true
+LOG  : General      f:0> VisiblePoopStain true
+LOG  : General      f:0> CreatePoopObject true
+LOG  : General      f:0> FliesOnPoop true
+LOG  : General      f:0> EnableFecalFootprints 1
+LOG  : General      f:0> EnableDefecationTraits true
+LOG  : General      f:0> BladderMaxValue 800.0
+LOG  : General      f:0> BladderIncreaseMultiplier 1.0
+LOG  : General      f:0> UrinateSpeedMultiplier 1.0
+LOG  : General      f:0> PeeInToiletRequirement 40.0
+LOG  : General      f:0> PeeOnGroundRequirement 50.0
+LOG  : General      f:0> PeeInContainerRequirement 60.0
+LOG  : General      f:0> PeeOnSelfRequirement 85.0
+LOG  : General      f:0> CanHavePeeAccident true
+LOG  : General      f:0> NightPeeAccidents true
+LOG  : General      f:0> VisiblePeeStain true
+LOG  : General      f:0> CreatePeeObject true
+LOG  : General      f:0> EnableUrinationTraits true
+LOG  : General      f:0> AllowProne true
+LOG  : General      f:0> ProneAimBonus 4
+LOG  : General      f:0> CrouchAimBonus 2
+LOG  : General      f:0> VelocityPercent 100
+LOG  : General      f:0> VelocityPercentAcceleration 200
+LOG  : General      f:0> EnduraceUseWhenAccelerating 0.28
+LOG  : General      f:0> SmokingSpeed 1.0
+LOG  : General      f:0> PuffStrength 1.0
+LOG  : General      f:0> MovementBurn 1.0
+LOG  : General      f:0> IdleBurnOut 1.0
+LOG  : General      f:0> EffectMultiplier 1.0
+LOG  : General      f:0> HungerReduction 0.25
+LOG  : General      f:0> FatigueReduction 0.25
+LOG  : General      f:0> ManageHeadGear true
+LOG  : General      f:0> SmokeRelighting true
+LOG  : General      f:0> UseNewMoodle true
+LOG  : General      f:0> Coughing true
+LOG  : General      f:0> CoughingChanceSmoker 4
+LOG  : General      f:0> CoughingChanceNonSmoker 15
+LOG  : General      f:0> Dropping true
+LOG  : General      f:0> DropChanceSmoker 6
+LOG  : General      f:0> DropChanceNonSmoker 35
+LOG  : General      f:0> UseNicotineSystem true
+LOG  : General      f:0> DynamicSmokerTrait true
+LOG  : General      f:0> DaysToAddiction 10
+LOG  : General      f:0> DaysToDetox 30
+LOG  : General      f:0> DaysToPeakWithdrawal 2
+LOG  : General      f:0> SmokerTraitDecayMultiplier 0.8
+LOG  : General      f:0> DebugMode false
+LOG  : General      f:0> DiscSpawnChance 14
+LOG  : General      f:0> GameDiscWeightPercent 100
+LOG  : General      f:0> SystemDiscWeightPercent 100
+LOG  : General      f:0> BlankDiscWeightPercent 100
+LOG  : General      f:0> HackDiscWeightPercent 100
+LOG  : General      f:0> PreinstalledGameChance 60
+LOG  : General      f:0> PasswordChance 34
+LOG  : General      f:0> FramePasswordNoteChance 12
+LOG  : General      f:0> NearbyPasswordNoteChance 18
+LOG  : General      f:0> HackRequiredElectricalLevel 1
+LOG  : General      f:0> EmptyFolderChance 28
+LOG  : General      f:0> FolderMagazineChance 12
+LOG  : General      f:0> FolderNewspaperChance 18
+LOG  : General      f:0> FolderVideoChance 9
+LOG  : General      f:0> PaintFileChance 10
+LOG  : General      f:0> ComponentSpawnChance 6
+LOG  : General      f:0> FoundComputerBadPartChance 18
+LOG  : General      f:0> FoundComputerBrokenPartChance 1
+LOG  : General      f:0> ComponentWearRate 100
+LOG  : General      f:0> EnableGameInstallVirus true
+LOG  : General      f:0> GameInstallVirusChance 8
+LOG  : General      f:0> EnableBoardApp true
+LOG  : General      f:0> EnableChatApp true
+LOG  : General      f:0> EnableCommerceApp true
+LOG  : General      f:0> NetworkOutageOnPowerLoss true
+LOG  : General      f:0> NetworkTerminalNeedsPower true
+LOG  : General      f:0> MarketShopRefreshHours 24
+LOG  : General      f:0> MarketJobRefreshHours 24
+LOG  : General      f:0> MailAccountChance 42
+LOG  : General      f:0> MailLoggedInChance 55
+LOG  : General      f:0> SecretSiteHintChance 28
+LOG  : General      f:0> LaptopSpawnChance 1
+LOG  : General      f:0> SpareBatterySpawnChance 3
+LOG  : General      f:0> BatteryDrainRate 100
+LOG  : General      f:0> BatteryChargeRate 100
+LOG  : General      f:0> DefaultHardcoreMode true
+LOG  : General      f:0> SpecialZombieXpBonuses true
+LOG  : General      f:0> KillXpPopupDefault true
+LOG  : General      f:0> RpgXpRatePercent 100
+LOG  : General      f:0> VehicleKillXpPercent 25
+LOG  : General      f:0> FireKillXpPercent 0
+LOG  : General      f:0> ContractRewardPercent 100
+LOG  : General      f:0> QuestRewardPercent 100
+LOG  : General      f:0> ContractOfferCount 3
+LOG  : General      f:0> ContractRefreshHours 24
+LOG  : General      f:0> ShopBuyPricePercent 100
+LOG  : General      f:0> BuyOrderRewardPercent 100
+LOG  : General      f:0> ShopRefreshTimePercent 100
+LOG  : General      f:0> RareStockChancePercent 100
+LOG  : General      f:0> BuyOrderActiveCount 3
+LOG  : General      f:0> BuyOrderRefreshHours 24
+LOG  : General      f:0> PermanentCasings true
+LOG  : General      f:0> CustomIcons true
+LOG  : General      f:0> CasingSounds true
+LOG  : General      f:0> BanditsCasings false
+LOG  : General      f:0> timeLight 15
+LOG  : General      f:0> timeHeavy 30
+LOG  : General      f:0> timeReinforced 45
+LOG  : General      f:0> timeMods 15
+LOG  : General      f:0> timeWheels 15
+LOG  : General      f:0> protectionHealthTriger 80
+LOG  : General      f:0> protectionLightHealthDelta 5
+LOG  : General      f:0> protectionHeavyHealthDelta 4
+LOG  : General      f:0> protectionReinforcedHealthDelta 3
+LOG  : General      f:0> protectionBullbarSmallHealthDelta 6
+LOG  : General      f:0> protectionBullbarMediumHealthDelta 5
+LOG  : General      f:0> protectionBullbarLargeHealthDelta 4
+LOG  : General      f:0> protectionPlowHealthDelta 3
+LOG  : General      f:0> protectionWheelsHealthDelta 1
+LOG  : General      f:0> protectionEngineSmallPowerIncrease 10
+LOG  : General      f:0> protectionEngineMediumPowerIncrease 20
+LOG  : General      f:0> protectionEngineLargePowerIncrease 35
+LOG  : General      f:0> protectionEnginePipedPowerIncrease 50
+LOG  : General      f:0> protectionEngineSnorkelPowerIncrease 15
+LOG  : General      f:0> protectionLightGasUsage 10
+LOG  : General      f:0> protectionHeavyGasUsage 20
+LOG  : General      f:0> protectionReinforcedGasUsage 40
+LOG  : General      f:0> protectionModsGasUsage 0
+LOG  : General      f:0> protectionBullbarSmallGasUsage 1
+LOG  : General      f:0> protectionBullbarMediumGasUsage 5
+LOG  : General      f:0> protectionBullbarLargeGasUsage 10
+LOG  : General      f:0> protectionPlowGasUsage 20
+LOG  : General      f:0> protectionEngineSmallGasUsage 2
+LOG  : General      f:0> protectionEngineMediumGasUsage 3
+LOG  : General      f:0> protectionEngineLargeGasUsage 4
+LOG  : General      f:0> protectionEnginePipedGasUsage 5
+LOG  : General      f:0> protectionEngineSnorkelGasUsage 1
+LOG  : General      f:0> NoTrailers false
+LOG  : General      f:0> NoBurnt true
+LOG  : General      f:0> VehiCond 10
+LOG  : General      f:0> VehiclesBlacklist Base.ModernCar_Martin;
+LOG  : General      f:0> CustomNormalVehicles 
+LOG  : General      f:0> CustomBusVehicles 
+LOG  : General      f:0> CustomSmallVehicles 
+LOG  : General      f:0> Custom3x2Caravan 
+LOG  : General      f:0> Custom3x6Caravan 
+LOG  : General      f:0> Custom3x7Empty 
+LOG  : General      f:0> Custom4x12colossal 
+LOG  : General      f:0> timeLight 15
+LOG  : General      f:0> timeHeavy 30
+LOG  : General      f:0> timeReinforced 45
+LOG  : General      f:0> timeMods 15
+LOG  : General      f:0> timeWheels 15
+LOG  : General      f:0> protectionHealthTriger 80
+LOG  : General      f:0> protectionLightHealthDelta 5
+LOG  : General      f:0> protectionHeavyHealthDelta 4
+LOG  : General      f:0> protectionReinforcedHealthDelta 3
+LOG  : General      f:0> protectionBullbarSmallHealthDelta 6
+LOG  : General      f:0> protectionBullbarMediumHealthDelta 5
+LOG  : General      f:0> protectionBullbarLargeHealthDelta 4
+LOG  : General      f:0> protectionPlowHealthDelta 3
+LOG  : General      f:0> protectionWheelsHealthDelta 1
+LOG  : General      f:0> protectionEngineSmallPowerIncrease 10
+LOG  : General      f:0> protectionEngineMediumPowerIncrease 20
+LOG  : General      f:0> protectionEngineLargePowerIncrease 35
+LOG  : General      f:0> protectionEnginePipedPowerIncrease 50
+LOG  : General      f:0> protectionEngineSnorkelPowerIncrease 15
+LOG  : General      f:0> protectionLightGasUsage 10
+LOG  : General      f:0> protectionHeavyGasUsage 20
+LOG  : General      f:0> protectionReinforcedGasUsage 40
+LOG  : General      f:0> protectionModsGasUsage 0
+LOG  : General      f:0> protectionBullbarSmallGasUsage 1
+LOG  : General      f:0> protectionBullbarMediumGasUsage 5
+LOG  : General      f:0> protectionBullbarLargeGasUsage 10
+LOG  : General      f:0> protectionPlowGasUsage 20
+LOG  : General      f:0> protectionEngineSmallGasUsage 2
+LOG  : General      f:0> protectionEngineMediumGasUsage 3
+LOG  : General      f:0> protectionEngineLargeGasUsage 4
+LOG  : General      f:0> protectionEnginePipedGasUsage 5
+LOG  : General      f:0> protectionEngineSnorkelGasUsage 1
+LOG  : General      f:0> Shove 0
+LOG  : General      f:0> OneHand 5
+LOG  : General      f:0> TwoHand 14
+LOG  : General      f:0> Gunshot 21
+LOG  : General      f:0> Shotgun 35
+LOG  : General      f:0> Damage 20
+LOG  : General      f:0> Sprint 3
+LOG  : General      f:0> Stomp 3
+LOG  : General      f:0> QuickVault 3
+LOG  : General      f:0> Vault 4
+LOG  : General      f:0> Crash 60
+LOG  : General      f:0> ZombieCrash 0
+LOG  : General      f:0> DividerHitLag false
+LOG  : General      f:0> HitLag false
+LOG  : General      f:0> HitLagDuration 0.8
+LOG  : General      f:0> HitLagDelay 0.09
+LOG  : General      f:0> HitLagStrength 90
+LOG  : General      f:0> DividerGlobal false
+LOG  : General      f:0> ShakeMultiplier 8
+LOG  : General      f:0> ShakeSpeed 0.45
+LOG  : General      f:0> ShakeSpread 1.37
+LOG  : General      f:0> Smoothness 90
+LOG  : General      f:0> XPMultiplierRepair 1.0
+LOG  : General      f:0> XPMultiplierScrap 1.0
+LOG  : General      f:0> XpBoostProfession 75
+LOG  : General      f:0> PartsMultiplier 0.5
+LOG  : General      f:0> NonPerishableChance 3
+LOG  : General      f:0> PerishableChance 3
+LOG  : General      f:0> SpicesSpawnChance 3
+LOG  : General      f:0> CannedSpawnChance 3
+LOG  : General      f:0> MagazineChance 3
+LOG  : General      f:0> MREChance 3
+LOG  : General      f:0> KitchenUtensilsChance 3
+LOG  : General      f:0> AlcoholChance 3
+LOG  : General      f:0> ZombieLootSpawn 3
+LOG  : General      f:0> HazmatSpawnChance 0.3
+LOG  : General      f:0> ZomboxoloneLootChance 0
+LOG  : General      f:0> ZomboxycyclineLootChance 0
+LOG  : General      f:0> ZomboxivirLootChance 100
+LOG  : General      f:0> TestKitLootChance 0
+LOG  : General      f:0> EnableGodRays true
+LOG  : General      f:0> EnableStormMood true
+LOG  : General      f:0> StormMoodPreset 2
+LOG  : General      f:0> KillXP 100
+LOG  : General      f:0> StartingSkillPoints 0
+LOG  : General      f:0> MemoryStoneDropPercent 0.18
+LOG  : General      f:0> RandomBoxDropPercent 2.11
+LOG  : General      f:0> RitualScrollDropPercent 2.0
+LOG  : General      f:0> EvilBloodDropPercent 5.0
+LOG  : General      f:0> EvilSacrificeDropPercent 0.05
+LOG  : General      f:0> EvilSoulDropPercent 0.1
+LOG  : General      f:0> HordeRaidChancePercent 0.2
+LOG  : General      f:0> HordeRaidSize 300
+LOG  : General      f:0> HordeRaidDurationHours 2.0
+LOG  : General      f:0> HordeRaidCooldownHours 24
+LOG  : General      f:0> WorldDangerEnabled true
+LOG  : General      f:0> WorldDangerDaysPerStage 30
+LOG  : General      f:0> WorldDangerS1Slow 30
+LOG  : General      f:0> WorldDangerS1Fast 70
+LOG  : General      f:0> WorldDangerS1Sprint 0
+LOG  : General      f:0> WorldDangerS1HealthPercent 100
+LOG  : General      f:0> WorldDangerS1RaidMultiplier 1.0
+LOG  : General      f:0> WorldDangerS2Slow 20
+LOG  : General      f:0> WorldDangerS2Fast 80
+LOG  : General      f:0> WorldDangerS2Sprint 0
+LOG  : General      f:0> WorldDangerS2HealthPercent 110
+LOG  : General      f:0> WorldDangerS2RaidMultiplier 2.0
+LOG  : General      f:0> WorldDangerS3Slow 10
+LOG  : General      f:0> WorldDangerS3Fast 89
+LOG  : General      f:0> WorldDangerS3Sprint 1
+LOG  : General      f:0> WorldDangerS3HealthPercent 120
+LOG  : General      f:0> WorldDangerS3RaidMultiplier 3.0
+LOG  : General      f:0> WorldDangerS4Slow 0
+LOG  : General      f:0> WorldDangerS4Fast 95
+LOG  : General      f:0> WorldDangerS4Sprint 5
+LOG  : General      f:0> WorldDangerS4HealthPercent 130
+LOG  : General      f:0> WorldDangerS4RaidMultiplier 4.0
+LOG  : General      f:0> WorldDangerS5Slow 0
+LOG  : General      f:0> WorldDangerS5Fast 90
+LOG  : General      f:0> WorldDangerS5Sprint 10
+LOG  : General      f:0> WorldDangerS5HealthPercent 150
+LOG  : General      f:0> WorldDangerS5RaidMultiplier 5.0
+LOG  : General      f:0> Minigames true
+LOG  : General      f:0> MinigameBandage true
+LOG  : General      f:0> MinigameRag true
+LOG  : General      f:0> MinigameAdhesive true
+LOG  : General      f:0> MinigameDisinfect true
+LOG  : General      f:0> MinigameSuture true
+LOG  : General      f:0> MinigameGlass true
+LOG  : General      f:0> MinigameBullet true
+LOG  : General      f:0> MinigameSplint true
+LOG  : General      f:0> MinigameMedicine true
+LOG  : General      f:0> MinigameAmputation true
+LOG  : General      f:0> MinigameCauterize true
+LOG  : General      f:0> MinigameDefib true
+LOG  : General      f:0> MinigameProcedures true
+LOG  : General      f:0> MinigameRemovals true
+LOG  : General      f:0> MinigamePoultice true
+LOG  : General      f:0> MinigameBurnCare true
+LOG  : General      f:0> MinigameTourniquet true
+LOG  : General      f:0> MinigameProsthetic true
+LOG  : General      f:0> MinigameDissection true
+LOG  : General      f:0> MinigameDifficulty 1.0
+LOG  : General      f:0> SkillScaling 1.0
+LOG  : General      f:0> QualityFloor 0.25
+LOG  : General      f:0> ForceNormalSpeed true
+LOG  : General      f:0> HowToCards true
+LOG  : General      f:0> FailedTreatmentWastes true
+LOG  : General      f:0> ProcedurePain true
+LOG  : General      f:0> ProcedurePainScale 1.0
+LOG  : General      f:0> ProcedurePainEffects true
+LOG  : General      f:0> BotchInjuries true
+LOG  : General      f:0> BotchChance 0.25
+LOG  : General      f:0> FailedMinigameStillTreats true
+LOG  : General      f:0> BotchPainMultiplier 1.0
+LOG  : General      f:0> Dissection true
+LOG  : General      f:0> DissectionXP 1.0
+LOG  : General      f:0> DissectionInfectionChance 0.1
+LOG  : General      f:0> MedicalTerms true
+LOG  : General      f:0> StartingTermsKnown 0.3
+LOG  : General      f:0> TermsPerLevel 2
+LOG  : General      f:0> JournalLootChance 1.0
+LOG  : General      f:0> AntibioticsAsInjection true
+LOG  : General      f:0> FirstAidRewards true
+LOG  : General      f:0> FirstAidHealRate 1.0
+LOG  : General      f:0> DressingRolls true
+LOG  : General      f:0> DressingTurnsScale 1.0
+LOG  : General      f:0> DressingCleanTime true
+LOG  : General      f:0> Tourniquets true
+LOG  : General      f:0> TourniquetPainMinutes 30
+LOG  : General      f:0> TourniquetDamageMinutes 120
+LOG  : General      f:0> TourniquetReusable false
+LOG  : General      f:0> DrugLootChance 1.0
+LOG  : General      f:0> DrugOverdoseLethality 1.0
+LOG  : General      f:0> VitalsReport true
+LOG  : General      f:0> ShowMoodles true
+LOG  : General      f:0> VisionEffects true
+LOG  : General      f:0> BloodLossRate 1.0
+LOG  : General      f:0> BloodRecoveryRate 1.0
+LOG  : General      f:0> OrganRecoveryRate 1.0
+LOG  : General      f:0> HealthEvents true
+LOG  : General      f:0> HealthEventRate 1.0
+LOG  : General      f:0> ClinicalConditions true
+LOG  : General      f:0> ConditionOnsetRate 1.0
+LOG  : General      f:0> ConditionsWorsen true
+LOG  : General      f:0> ConditionWorsenTime 1.0
+LOG  : General      f:0> ConditionsChest true
+LOG  : General      f:0> ConditionsBlood true
+LOG  : General      f:0> ConditionsInfection true
+LOG  : General      f:0> ConditionsLimb true
+LOG  : General      f:0> ConditionsClots true
+LOG  : General      f:0> ConditionsBodyNeeds true
+LOG  : General      f:0> ConditionsTemperature true
+LOG  : General      f:0> ConditionsHead true
+LOG  : General      f:0> InfectionHours 4.0
+LOG  : General      f:0> SepsisHours 12.0
+LOG  : General      f:0> TraitsAffectMedicine true
+LOG  : General      f:0> Amputation true
+LOG  : General      f:0> AmputationCuresInfection true
+LOG  : General      f:0> AmputationCureWindowHours 0.0
+LOG  : General      f:0> AmputateWithoutBite false
+LOG  : General      f:0> CauterizeTemperature 300
+LOG  : General      f:0> StumpSelfSealHours 72.0
+LOG  : General      f:0> LimbLossLimits true
+LOG  : General      f:0> OneArmSpeed 0.6
+LOG  : General      f:0> NoArmsSpeed 0.35
+LOG  : General      f:0> OneLegSpeed 0.5
+LOG  : General      f:0> CrutchSpeed 0.8
+LOG  : General      f:0> ProstheticStartSpeed 0.7
+LOG  : General      f:0> ProstheticMaxSpeed 0.95
+LOG  : General      f:0> ProstheticXPMultiplier 1.0
+LOG  : General      f:0> ProstheticLootChance 1.0
+LOG  : General      f:0> CrudeProstheticLife 48.0
+LOG  : General      f:0> MouthWork true
+LOG  : General      f:0> WheelchairSpeed 1.0
+LOG  : General      f:0> WheelchairLootChance 1.0
+LOG  : General      f:0> BodyModCompat true
+LOG  : General      f:0> CrawlMeleeDamage 0.6
+LOG  : General      f:0> CrawlMeleeForce 0.4
+LOG  : General      f:0> WheelchairMeleeDamage 0.8
+LOG  : General      f:0> WheelchairMeleeForce 0.6
+LOG  : General      f:0> SeveredLimbs true
+LOG  : General      f:0> CarryPlayers true
+LOG  : General      f:0> MiserableEnabled true
+LOG  : General      f:0> SelfHarmThreshold 70
+LOG  : General      f:0> SelfHarmAfterDays 2.0
+LOG  : General      f:0> SuicideAfterDays 3.0
+LOG  : General      f:0> MiserableThreshold 90
+LOG  : General      f:0> FirearmSelfHarm true
+LOG  : General      f:0> EyeEpisodes true
+LOG  : General      f:0> SelfHarmWithoutBlade true
+LOG  : General      f:0> SelfHarmGraceSeconds 14
+LOG  : General      f:0> MiserableCensored false
+LOG  : General      f:0> BuddyPreventsSelfHarm true
+LOG  : General      f:0> BuddyRadius 8
+LOG  : General      f:0> LowMoodBlocksHealing true
+LOG  : General      f:0> LowMoodHealingThreshold 75
+LOG  : General      f:0> BiteDespair true
+LOG  : General      f:0> BiteDespairHours 20.0
+LOG  : General      f:0> PTSD true
+LOG  : General      f:0> PTSDChance 0.35
+LOG  : General      f:0> PTSDFlashbacks 3.0
+LOG  : General      f:0> PTSDFriendHours 2.0
+LOG  : General      f:0> DeathScene true
+LOG  : General      f:0> LastMomentsAt 10
+LOG  : General      f:0> ArrestSeconds 30
+LOG  : General      f:0> DownedIgnoredByZombies true
+LOG  : General      f:0> LastStandChance 5.0
+LOG  : General      f:0> LastStandHealth 37.0
+LOG  : General      f:0> UselessZombies true
+LOG  : General      f:0> AllowTaintedWater true
+LOG  : General      f:0> BandageWaterPerItem 4.0
+LOG  : General      f:0> UseSeifukuZombies true
+LOG  : General      f:0> UseVanillaZombies false
+LOG  : General      f:0> DefaultRatio 1.0
+LOG  : General      f:0> GenderRatio 4
+LOG  : General      f:0> SeifukuStyle 1
+LOG  : General      f:0> BlazerStyle 1
+LOG  : General      f:0> BlazerColor 1
+LOG  : General      f:0> SailorColor 1
+LOG  : General      f:0> SweaterColor 1
+LOG  : General      f:0> BottomStyle 1
+LOG  : General      f:0> BottomColor 1
+LOG  : General      f:0> RibbonStyleBlazer 1
+LOG  : General      f:0> RibbonStyleSailor 1
+LOG  : General      f:0> RibbonColor 1
+LOG  : General      f:0> GymsuitStyle 1
+LOG  : General      f:0> SwimsuitStyle 3
+LOG  : General      f:0> WhiteSwimsuitToggle false
+LOG  : General      f:0> SpawnChanceToggle true
+LOG  : General      f:0> SpawnChanceModifier 1.0
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> PlayerCorpsePoolsEnabled true
+LOG  : General      f:0> CorpseChance 100
+LOG  : General      f:0> SpreadDurationSeconds 8
+LOG  : General      f:0> GrowthSteps 32
+LOG  : General      f:0> SplatsPerStep 4
+LOG  : General      f:0> MaximumRadius 1.0
+LOG  : General      f:0> PoolGoreMultiplier 1.5
+LOG  : General      f:0> BloodyFootstepsEnabled true
+LOG  : General      f:0> ZombieBloodyFootstepsEnabled true
+LOG  : General      f:0> FootstepCount 14
+LOG  : General      f:0> FootstepSpacing 0.38
+LOG  : General      f:0> PoolAgingEnabled true
+LOG  : General      f:0> FootprintDryDays 1.0
+LOG  : General      f:0> VisualAgingEnabled true
+LOG  : General      f:0> MinimumDriedStainPercent 35.0
+LOG  : General      f:0> RainWashEnabled true
+LOG  : General      f:0> RainWashHours 4.0
+LOG  : General      f:0> RainWashMinimumIntensity 0.1
+LOG  : General      f:0> RainWashesFootprints true
+LOG  : General      f:0> RainFootprintWashMultiplier 3.0
+LOG  : General      f:0> DebugMode false
+LOG  : General      f:0> BagCapacity 49.0
+LOG  : General      f:0> BagRunSpeedModifier 0.99
+LOG  : General      f:0> BagWeightReduction 99.0
+LOG  : General      f:0> DropLSC 0.15
+LOG  : General      f:0> DropLSR 0.35
+LOG  : General      f:0> DropMLS 0.8
+LOG  : General      f:0> StartWithLSGrey false
+LOG  : General      f:0> FannyCapacity 10.0
+LOG  : General      f:0> FannyRunSpeedModifier 0.99
+LOG  : General      f:0> FannyWeightReduction 99.0
+LOG  : General      f:0> DropLFC 0.15
+LOG  : General      f:0> DropLFR 0.35
+LOG  : General      f:0> DropMLF 0.8
+LOG  : General      f:0> StartWithLFGrey false
+LOG  : General      f:0> BagCapacity 49.0
+LOG  : General      f:0> BagRunSpeedModifier 0.99
+LOG  : General      f:0> BagWeightReduction 99.0
+LOG  : General      f:0> DropLDC 0.25
+LOG  : General      f:0> DropLDR 0.5
+LOG  : General      f:0> DropMLDC 1.0
+LOG  : General      f:0> DropMLDR 2.0
+LOG  : General      f:0> StartWithLDGrey false
+LOG  : General      f:0> BagCapacity 49.0
+LOG  : General      f:0> BagRunSpeedModifier 0.99
+LOG  : General      f:0> BagWeightReduction 99.0
+LOG  : General      f:0> DropLBC 0.15
+LOG  : General      f:0> DropLBR 0.35
+LOG  : General      f:0> DropMLB 0.8
+LOG  : General      f:0> StartWithLBGrey false
+LOG  : General      f:0> ChanceToFall 0.0
+LOG  : General      f:0> Insulation 0.2
+LOG  : General      f:0> WindResistance 0.8
+LOG  : General      f:0> WaterResistance 0.6
+LOG  : General      f:0> DropLCC 0.15
+LOG  : General      f:0> DropLCR 0.35
+LOG  : General      f:0> DropMLC 0.8
+LOG  : General      f:0> DropFLC 0.1
+LOG  : General      f:0> StartWithLCGrey false
+LOG  : General      f:0> StartWithLCFlashlight false
+LOG  : General      f:0> EnableDirtinessMechanic true
+LOG  : General      f:0> MinimumClothingDirtinessRequired 25.0
+LOG  : General      f:0> ClothingDirtinessPercentageToTransfer 10.0
+LOG  : General      f:0> DirtinessIncreaseDecreaseRateUntilEffects 1.0
+LOG  : General      f:0> EnableBloodinessMechanic true
+LOG  : General      f:0> MinimumClothingBloodinessRequired 25.0
+LOG  : General      f:0> ClothingBloodinessPercentageToTransfer 10.0
+LOG  : General      f:0> BloodinessIncreaseDecreaseRateUntilEffects 1.0
+LOG  : General      f:0> EnableItchingMechanic true
+LOG  : General      f:0> EnableSicknessMechanic true
+LOG  : General      f:0> RequireSlotCost true
+LOG  : General      f:0> SlotTailoringLevel 2
+LOG  : General      f:0> AllowCalibration true
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> LongBladeChance 45
+LOG  : General      f:0> AxeChance 25
+LOG  : General      f:0> DamageThreshold 0.45
+LOG  : General      f:0> UpperArmDamage 1.8
+LOG  : General      f:0> CriticalAlwaysCuts true
+LOG  : General      f:0> EnableLegs true
+LOG  : General      f:0> LegTargetChance 30
+LOG  : General      f:0> EnableShotguns true
+LOG  : General      f:0> ShotgunChance 25
+LOG  : General      f:0> EnableDecapitation true
+LOG  : General      f:0> DecapitationChance 25
+LOG  : General      f:0> DecapitationStrength false
+LOG  : General      f:0> DropParts true
+LOG  : General      f:0> DropCloth false
+LOG  : General      f:0> DropMax 24
+LOG  : General      f:0> DropLife 180
+LOG  : General      f:0> DropDistance 50
+LOG  : General      f:0> DropFlight true
+LOG  : General      f:0> DropPerZombie 3
+LOG  : General      f:0> DropBlood true
+LOG  : General      f:0> CrawlBlood true
+LOG  : General      f:0> HeadBurst true
+LOG  : General      f:0> BleedTime 20
+LOG  : General      f:0> BleedMarks 768
+LOG  : General      f:0> BloodBudget 96
+LOG  : General      f:0> BloodMaxZombies 16
+LOG  : General      f:0> PoolBlood true
+LOG  : General      f:0> BleedAmount 12
+LOG  : General      f:0> BleedInterval 250
+LOG  : General      f:0> PoolRadius 0.8
+LOG  : General      f:0> DropPools true
+LOG  : General      f:0> DropPoolTime 4
+LOG  : General      f:0> DropPoolMarks 9
+LOG  : General      f:0> CutBlood true
+LOG  : General      f:0> CutBloodMarks 12
+LOG  : General      f:0> CrawlSpacing 0.2
+LOG  : General      f:0> HeadBurstCount 32
+LOG  : General      f:0> HeadBurstDuration 900
+LOG  : General      f:0> HeadDrops true
+LOG  : General      f:0> NeckBlood true
+LOG  : General      f:0> HeadHair true
+LOG  : General      f:0> HeadGoreCount 6
+LOG  : General      f:0> HeadBurstScale 3.0
+LOG  : General      f:0> ImpactBlood true
+LOG  : General      f:0> FootprintsFrom 1
+LOG  : General      f:0> TireTracks true
+LOG  : General      f:0> LowEndMode false
+LOG  : General      f:0> FootprintHours 6.0
+LOG  : General      f:0> ZombieFootprintHours 6.0
+LOG  : General      f:0> SnowfallCoverRate 8.0
+LOG  : General      f:0> MaxFootprints 2000
+LOG  : General      f:0> ZombieRadius 25
+LOG  : General      f:0> TireTrackHours 12.0
+LOG  : General      f:0> MaxTireTracks 4000
+LOG  : General      f:0> TireTrackSoftLimit 1500
+LOG  : General      f:0> VehicleSnow true
+LOG  : General      f:0> VehicleSnowHours 2.0
+LOG  : General      f:0> VehicleSnowIce true
+LOG  : General      f:0> CharSnow true
+LOG  : General      f:0> CharSnowHours 3.0
+LOG  : General      f:0> CharSnowMax 1.5
+LOG  : General      f:0> CharSnowMeltHours 1.25
+LOG  : General      f:0> CharSnowIndoorMeltHours 0.5
+LOG  : General      f:0> CharSnowBodyMeltHours 50.0
+LOG  : General      f:0> CharSnowRainMeltHours 3.0
+LOG  : General      f:0> CharItemSnow true
+LOG  : General      f:0> DarkSnow false
+LOG  : General      f:0> ZombieSnow true
+LOG  : General      f:0> ZombieSnowHours 0.5
+LOG  : General      f:0> SnowWetness true
+LOG  : General      f:0> SnowWetnessRate 1.0
+LOG  : General      f:0> SnowWetnessMP 1
+LOG  : General      f:0> CarriedSnow true
+LOG  : General      f:0> CarriedSnowSteps 3
+LOG  : General      f:0> CarriedSnowTireTiles 3.2
+LOG  : General      f:0> CarriedSnowHours 2.0
+LOG  : General      f:0> CarriedSnowMeltHours 0.25
+LOG  : General      f:0> Breath true
+LOG  : General      f:0> BreathMaxTemp 7.0
+LOG  : General      f:0> BreathFullTemp -20.0
+LOG  : General      f:0> BreathOpacity 0.85
+LOG  : General      f:0> SnowKick true
+LOG  : General      f:0> SnowKickRun 0.4
+LOG  : General      f:0> SnowKickSprint 1.3
+LOG  : General      f:0> SnowKickFalls true
+LOG  : General      f:0> SnowKickFallAmount 1.0
+LOG  : General      f:0> SnowKickWheels true
+LOG  : General      f:0> SnowKickWheelAmount 1.0
+LOG  : General      f:0> FrostScreen true
+LOG  : General      f:0> FrostScreenOpacity 0.8
+LOG  : General      f:0> FrostScreenFromLevel 1
+LOG  : General      f:0> FrostScreenComeSeconds 12.0
+LOG  : General      f:0> FrostScreenGoSeconds 30.0
+LOG  : General      f:0> FrostScreenShiver true
+LOG  : General      f:0> FrostScreenShiverLevel 2
+LOG  : General      f:0> VehicleFrost true
+LOG  : General      f:0> VehicleFrostHours 3.0
+LOG  : General      f:0> VehicleFrostHeaterMinutes 10.0
+LOG  : General      f:0> VehicleFrostMeltHours 2.5
+LOG  : General      f:0> Category1 false
+LOG  : General      f:0> BlackGearedZombiesPatriotArmy 1.0
+LOG  : General      f:0> BlackGearedZombiesDefenderArmy 0.8
+LOG  : General      f:0> BlackGearedZombiesVanguardArmy 0.4
+LOG  : General      f:0> EmptyLine11 false
+LOG  : General      f:0> DesertGearedZombiesPatriotArmy 2.0
+LOG  : General      f:0> DesertGearedZombiesDefenderArmy 1.0
+LOG  : General      f:0> DesertGearedZombiesVanguardArmy 0.5
+LOG  : General      f:0> EmptyLine12 false
+LOG  : General      f:0> GreenGearedZombiesPatriotArmy 4.0
+LOG  : General      f:0> GreenGearedZombiesDefenderArmy 2.0
+LOG  : General      f:0> GreenGearedZombiesVanguardArmy 1.0
+LOG  : General      f:0> EmptyLine13 false
+LOG  : General      f:0> WhiteGearedZombiesPatriotArmy 1.0
+LOG  : General      f:0> WhiteGearedZombiesDefenderArmy 0.8
+LOG  : General      f:0> WhiteGearedZombiesVanguardArmy 0.4
+LOG  : General      f:0> EmptyLine9 false
+LOG  : General      f:0> Category9 false
+LOG  : General      f:0> BlackGearedZombiesPatriotDefault 0.08
+LOG  : General      f:0> BlackGearedZombiesDefenderDefault 0.06
+LOG  : General      f:0> BlackGearedZombiesVanguardDefault 0.04
+LOG  : General      f:0> EmptyLine14 false
+LOG  : General      f:0> DesertGearedZombiesPatriotDefault 0.2
+LOG  : General      f:0> DesertGearedZombiesDefenderDefault 0.1
+LOG  : General      f:0> DesertGearedZombiesVanguardDefault 0.05
+LOG  : General      f:0> EmptyLine15 false
+LOG  : General      f:0> GreenGearedZombiesPatriotDefault 0.1
+LOG  : General      f:0> GreenGearedZombiesDefenderDefault 0.08
+LOG  : General      f:0> GreenGearedZombiesVanguardDefault 0.06
+LOG  : General      f:0> EmptyLine16 false
+LOG  : General      f:0> WhiteGearedZombiesPatriotDefault 0.06
+LOG  : General      f:0> WhiteGearedZombiesDefenderDefault 0.05
+LOG  : General      f:0> WhiteGearedZombiesVanguardDefault 0.04
+LOG  : General      f:0> EmptyLine10 false
+LOG  : General      f:0> Category10 false
+LOG  : General      f:0> BlackGearedZombiesPatriotSecretBase 3.0
+LOG  : General      f:0> BlackGearedZombiesDefenderSecretBase 4.0
+LOG  : General      f:0> BlackGearedZombiesVanguardSecretBase 2.0
+LOG  : General      f:0> EmptyLine17 false
+LOG  : General      f:0> DesertGearedZombiesPatriotSecretBase 0.2
+LOG  : General      f:0> DesertGearedZombiesDefenderSecretBase 0.4
+LOG  : General      f:0> DesertGearedZombiesVanguardSecretBase 0.6
+LOG  : General      f:0> EmptyLine18 false
+LOG  : General      f:0> GreenGearedZombiesPatriotSecretBase 0.6
+LOG  : General      f:0> GreenGearedZombiesDefenderSecretBase 0.8
+LOG  : General      f:0> GreenGearedZombiesVanguardSecretBase 1.0
+LOG  : General      f:0> EmptyLine19 false
+LOG  : General      f:0> WhiteGearedZombiesPatriotSecretBase 0.8
+LOG  : General      f:0> WhiteGearedZombiesDefenderSecretBase 1.0
+LOG  : General      f:0> WhiteGearedZombiesVanguardSecretBase 2.0
+LOG  : General      f:0> EmptyLine2 false
+LOG  : General      f:0> Category2 false
+LOG  : General      f:0> EnableBlackGearLoot true
+LOG  : General      f:0> EnableDesertGearLoot true
+LOG  : General      f:0> EnableGreenGearLoot true
+LOG  : General      f:0> EnableWhiteGearLoot true
+LOG  : General      f:0> EnablePressGearLoot true
+LOG  : General      f:0> EmptyLine3 false
+LOG  : General      f:0> Category3 false
+LOG  : General      f:0> PatriotGear 0.03
+LOG  : General      f:0> DefenderGear 0.015
+LOG  : General      f:0> VanguardGear 0.005
+LOG  : General      f:0> EmptyLine4 false
+LOG  : General      f:0> Category4 false
+LOG  : General      f:0> PocketBackpack 0.05
+LOG  : General      f:0> StrategistBackpack 0.025
+LOG  : General      f:0> RangerBackpack 0.0125
+LOG  : General      f:0> ColossusBackpack 2.5E-4
+LOG  : General      f:0> EchoBackpack 0.0125
+LOG  : General      f:0> EmptyLine5 false
+LOG  : General      f:0> Category5 false
+LOG  : General      f:0> StormPackSmall 0.03
+LOG  : General      f:0> StormPackMedium 0.015
+LOG  : General      f:0> StormPackLarge 0.005
+LOG  : General      f:0> EmptyLine6 false
+LOG  : General      f:0> Category6 false
+LOG  : General      f:0> PouchesSmall 0.03
+LOG  : General      f:0> PouchesMedium 0.015
+LOG  : General      f:0> PouchesLarge 0.005
+LOG  : General      f:0> EmptyLine7 false
+LOG  : General      f:0> Category7 false
+LOG  : General      f:0> HipBagSmall 0.03
+LOG  : General      f:0> HipBagMedium 0.015
+LOG  : General      f:0> EmptyLine8 false
+LOG  : General      f:0> Category8 false
+LOG  : General      f:0> HolsterSheath 0.04
+LOG  : General      f:0> HeadApparel 0.04
+LOG  : General      f:0> Balaclava 0.02
+LOG  : General      f:0> Jacket 0.04
+LOG  : General      f:0> Gloves 0.04
+LOG  : General      f:0> MilitaryTShirts 0.02
+LOG  : General      f:0> PantsShorts 0.02
+LOG  : General      f:0> BootsShoes 0.04
+LOG  : General      f:0> ThermalUnderwear 0.04
+LOG  : General      f:0> NonMilitary 0.01
+LOG  : General      f:0> _CycloneAK_cat_Spawn true
+LOG  : General      f:0> _SW629_cat_Spawn true
+LOG  : General      f:0> _lee_enfield_cat_Spawn true
+LOG  : General      f:0> _M16D_cat_Spawn true
+LOG  : General      f:0> _QBU203_cat_Spawn true
+LOG  : General      f:0> _nagant_m1895_cat_Spawn true
+LOG  : General      f:0> _Revolver_Short_Spawn true
+LOG  : General      f:0> _DoubleBarrelShotgunSawnoff_Spawn true
+LOG  : General      f:0> _MFS_MTL30_cat_Spawn true
+LOG  : General      f:0> _MEGA_AR15_cat_Spawn true
+LOG  : General      f:0> _AssaultRifle_Spawn true
+LOG  : General      f:0> _AssaultRifle2_Spawn true
+LOG  : General      f:0> _HuntingRifle_Spawn true
+LOG  : General      f:0> _VarmintRifle_Spawn true
+LOG  : General      f:0> _JS14_Rifle_Spawn true
+LOG  : General      f:0> _JS3T_Shotgun_Spawn true
+LOG  : General      f:0> _L92_Carbine_Spawn true
+LOG  : General      f:0> _L94_Rifle_Spawn true
+LOG  : General      f:0> _MSR7T_Rifle_Spawn true
+LOG  : General      f:0> _TrapperCarbine_Spawn true
+LOG  : General      f:0> _Pistol_Spawn true
+LOG  : General      f:0> _Pistol2_Spawn true
+LOG  : General      f:0> _Pistol3_Spawn true
+LOG  : General      f:0> _Revolver_Spawn true
+LOG  : General      f:0> _Revolver_Long_Spawn true
+LOG  : General      f:0> _Shotgun_Spawn true
+LOG  : General      f:0> _ShotgunSawnoff_Spawn true
+LOG  : General      f:0> _DoubleBarrelShotgun_Spawn true
+LOG  : General      f:0> _56S_cat_Spawn true
+LOG  : General      f:0> _Taurus_cat_Spawn true
+LOG  : General      f:0> _Anaconda_cat_Spawn true
+LOG  : General      f:0> _AWM_cat_Spawn true
+LOG  : General      f:0> _M200_cat_Spawn true
+LOG  : General      f:0> _M500_cat_Spawn true
+LOG  : General      f:0> _M1866_cat_Spawn true
+LOG  : General      f:0> _ROSE_cat_Spawn true
+LOG  : General      f:0> _Marlin1894_Spawn true
+LOG  : General      f:0> _Christine45_cat_Spawn true
+LOG  : General      f:0> _M1873_cat_Spawn true
+LOG  : General      f:0> _SRM3_cat_Spawn true
+LOG  : General      f:0> _UMP45_cat_Spawn true
+LOG  : General      f:0> _usp45_cat_Spawn true
+LOG  : General      f:0> _AX50_cat_Spawn true
+LOG  : General      f:0> _Thoridal_Spawn true
+LOG  : General      f:0> _GM6_cat_Spawn true
+LOG  : General      f:0> _M82_cat_Spawn true
+LOG  : General      f:0> _Requiem_cat_Spawn true
+LOG  : General      f:0> _SnipeX_T_Rex_cat_Spawn true
+LOG  : General      f:0> _XM109_cat_Spawn true
+LOG  : General      f:0> _AEK971_cat_Spawn true
+LOG  : General      f:0> _AK12_cat_Spawn true
+LOG  : General      f:0> _AKS74U_cat_Spawn true
+LOG  : General      f:0> _AN94_cat_Spawn true
+LOG  : General      f:0> _HK416_cat_Spawn true
+LOG  : General      f:0> _KS1_KAC_cat_Spawn true
+LOG  : General      f:0> _M4A1S_cat_Spawn true
+LOG  : General      f:0> _M4Mk18_cat_Spawn true
+LOG  : General      f:0> _M7_cat_Spawn true
+LOG  : General      f:0> _M91_cat_Spawn true
+LOG  : General      f:0> _MCX_cat_Spawn true
+LOG  : General      f:0> _MK12_cat_Spawn true
+LOG  : General      f:0> _NoveskeN4_cat_Spawn true
+LOG  : General      f:0> _SAI_GRY_cat_Spawn true
+LOG  : General      f:0> _SG553_cat_Spawn true
+LOG  : General      f:0> _QBU191_cat_Spawn true
+LOG  : General      f:0> _QBZ191_cat_Spawn true
+LOG  : General      f:0> _QBZ192_cat_Spawn true
+LOG  : General      f:0> _QJY201_cat_Spawn true
+LOG  : General      f:0> _QSZ_92G_Spawn true
+LOG  : General      f:0> _98k_cat_Spawn true
+LOG  : General      f:0> _AK103_cat_Spawn true
+LOG  : General      f:0> _ar_10_cat_Spawn true
+LOG  : General      f:0> _ARX200_cat_Spawn true
+LOG  : General      f:0> _BAR_cat_Spawn true
+LOG  : General      f:0> _Berthier_cat_Spawn true
+LOG  : General      f:0> _C96_cat_Spawn true
+LOG  : General      f:0> _FAL_cat_Spawn true
+LOG  : General      f:0> _FN_Evolys_cat_Spawn true
+LOG  : General      f:0> _Groza_cat_Spawn true
+LOG  : General      f:0> _HK51_cat_Spawn true
+LOG  : General      f:0> _LebelM1886_cat_Spawn true
+LOG  : General      f:0> _lewis_cat_Spawn true
+LOG  : General      f:0> _M1Garand_cat_Spawn true
+LOG  : General      f:0> _M14_Albedo_Spawn true
+LOG  : General      f:0> _M240_cat_Spawn true
+LOG  : General      f:0> _m1903_cat_Spawn true
+LOG  : General      f:0> _M1918_cat_Spawn true
+LOG  : General      f:0> _M1919a6_cat_Spawn true
+LOG  : General      f:0> _MG3_cat_Spawn true
+LOG  : General      f:0> _mk47_cat_Spawn true
+LOG  : General      f:0> _Mosin_Nagant_cat_Spawn true
+LOG  : General      f:0> _PKM_cat_Spawn true
+LOG  : General      f:0> _RPK16_cat_Spawn true
+LOG  : General      f:0> _RSC_cat_Spawn true
+LOG  : General      f:0> _ScarH_cat_Spawn true
+LOG  : General      f:0> _SVD_cat_Spawn true
+LOG  : General      f:0> _SVT40_cat_Spawn true
+LOG  : General      f:0> _Type81_cat_Spawn true
+LOG  : General      f:0> _URG_S_cat_Spawn true
+LOG  : General      f:0> _HoneyBadger_cat_Spawn true
+LOG  : General      f:0> _LWMMG_cat_Spawn true
+LOG  : General      f:0> _mg338_cat_Spawn true
+LOG  : General      f:0> _MK18_cat_Spawn true
+LOG  : General      f:0> _REAPR_cat_Spawn true
+LOG  : General      f:0> _AMB17_cat_Spawn true
+LOG  : General      f:0> _AS_VAL_MOD4_cat_Spawn true
+LOG  : General      f:0> _BerettaM93R_cat_Spawn true
+LOG  : General      f:0> _EMP_cat_Spawn true
+LOG  : General      f:0> _FN57_cat_Spawn true
+LOG  : General      f:0> _G17_cat_Spawn true
+LOG  : General      f:0> _G18_cat_Spawn true
+LOG  : General      f:0> _G19_cat_Spawn true
+LOG  : General      f:0> _G34_cat_Spawn true
+LOG  : General      f:0> _KrissVector_cat_Spawn true
+LOG  : General      f:0> _lugerP08_cat_Spawn true
+LOG  : General      f:0> _M9A4_cat_Spawn true
+LOG  : General      f:0> _minigun_cat_Spawn true
+LOG  : General      f:0> _mp5_cat_Spawn true
+LOG  : General      f:0> _MP7_cat_Spawn true
+LOG  : General      f:0> _SIGP226_cat_Spawn true
+LOG  : General      f:0> _Taran2011_cat_Spawn true
+LOG  : General      f:0> _Thompson_cat_Spawn true
+LOG  : General      f:0> _uzi_cat_Spawn true
+LOG  : General      f:0> _VSSM_cat_Spawn true
+LOG  : General      f:0> _interceptor_cat_Spawn true
+LOG  : General      f:0> _AA12_cat_Spawn true
+LOG  : General      f:0> _BRAuto5_cat_Spawn true
+LOG  : General      f:0> _ChiappaTripleThreat_cat_Spawn true
+LOG  : General      f:0> _DP12_cat_Spawn true
+LOG  : General      f:0> _M870_cat_Spawn true
+LOG  : General      f:0> _M1887_cat_Spawn true
+LOG  : General      f:0> _origin12_cat_Spawn true
+LOG  : General      f:0> _Saiga12_cat_Spawn true
+LOG  : General      f:0> _Striker12_cat_Spawn true
+LOG  : General      f:0> _TTI_Benelli_M4_cat_Spawn true
+LOG  : General      f:0> _UTS15_cat_Spawn true
+LOG  : General      f:0> _Minigun_cat_Spawn true
+LOG  : General      f:0> _AS_VAL_cat_Spawn true
+LOG  : General      f:0> EnableMFSCivilianFirearms true
+LOG  : General      f:0> FilterZombieVanillaGuns false
+LOG  : General      f:0> ForceRemoveDisabledGuns false
+LOG  : General      f:0> DisableVanillaWeaponParts false
+LOG  : General      f:0> Gun_AssaultRifle 0.0
+LOG  : General      f:0> Gun_AssaultRifle2 0.0
+LOG  : General      f:0> Gun_HuntingRifle 0.0
+LOG  : General      f:0> Gun_VarmintRifle 0.0
+LOG  : General      f:0> Gun_JS14_Rifle 0.0
+LOG  : General      f:0> Gun_JS3T_Shotgun 0.0
+LOG  : General      f:0> Gun_L92_Carbine 0.0
+LOG  : General      f:0> Gun_L94_Rifle 0.0
+LOG  : General      f:0> Gun_MSR7T_Rifle 0.0
+LOG  : General      f:0> Gun_TrapperCarbine 0.0
+LOG  : General      f:0> Gun_Pistol 0.0
+LOG  : General      f:0> Gun_Pistol2 0.0
+LOG  : General      f:0> Gun_Pistol3 0.0
+LOG  : General      f:0> Gun_Revolver 0.0
+LOG  : General      f:0> Gun_Revolver_Short 0.0
+LOG  : General      f:0> Gun_Revolver_Long 0.0
+LOG  : General      f:0> Gun_Shotgun 0.0
+LOG  : General      f:0> Gun_ShotgunSawnoff 0.0
+LOG  : General      f:0> Gun_DoubleBarrelShotgun 0.0
+LOG  : General      f:0> Gun_DoubleBarrelShotgunSawnoff 0.0
+LOG  : General      f:0> Gun_56S_cat 1.0
+LOG  : General      f:0> Gun_Taurus_cat 1.0
+LOG  : General      f:0> Gun_Anaconda_cat 1.0
+LOG  : General      f:0> Gun_AWM_cat 1.0
+LOG  : General      f:0> Gun_M200_cat 1.0
+LOG  : General      f:0> Gun_M500_cat 1.0
+LOG  : General      f:0> Gun_M1866_cat 1.0
+LOG  : General      f:0> Gun_ROSE_cat 1.0
+LOG  : General      f:0> Gun_Marlin1894 1.0
+LOG  : General      f:0> Gun_Christine45_cat 1.0
+LOG  : General      f:0> Gun_M1873_cat 1.0
+LOG  : General      f:0> Gun_SRM3_cat 1.0
+LOG  : General      f:0> Gun_UMP45_cat 1.0
+LOG  : General      f:0> Gun_usp45_cat 1.0
+LOG  : General      f:0> Gun_AX50_cat 1.0
+LOG  : General      f:0> Gun_Thoridal 1.0
+LOG  : General      f:0> Gun_GM6_cat 1.0
+LOG  : General      f:0> Gun_M82_cat 1.0
+LOG  : General      f:0> Gun_Requiem_cat 1.0
+LOG  : General      f:0> Gun_SnipeX_T_Rex_cat 1.0
+LOG  : General      f:0> Gun_XM109_cat 1.0
+LOG  : General      f:0> Gun_AEK971_cat 1.0
+LOG  : General      f:0> Gun_AK12_cat 1.0
+LOG  : General      f:0> Gun_AKS74U_cat 1.0
+LOG  : General      f:0> Gun_AN94_cat 1.0
+LOG  : General      f:0> Gun_HK416_cat 1.0
+LOG  : General      f:0> Gun_KS1_KAC_cat 1.0
+LOG  : General      f:0> Gun_M4A1S_cat 1.0
+LOG  : General      f:0> Gun_M4Mk18_cat 1.0
+LOG  : General      f:0> Gun_M7_cat 1.0
+LOG  : General      f:0> Gun_M91_cat 1.0
+LOG  : General      f:0> Gun_MCX_cat 1.0
+LOG  : General      f:0> Gun_MK12_cat 1.0
+LOG  : General      f:0> Gun_NoveskeN4_cat 1.0
+LOG  : General      f:0> Gun_SAI_GRY_cat 1.0
+LOG  : General      f:0> Gun_SG553_cat 1.0
+LOG  : General      f:0> Gun_QBU191_cat 1.0
+LOG  : General      f:0> Gun_QBZ191_cat 1.0
+LOG  : General      f:0> Gun_QBZ192_cat 1.0
+LOG  : General      f:0> Gun_QJY201_cat 1.0
+LOG  : General      f:0> Gun_QSZ_92G 1.0
+LOG  : General      f:0> Gun_98k_cat 1.0
+LOG  : General      f:0> Gun_AK103_cat 1.0
+LOG  : General      f:0> Gun_ar_10_cat 1.0
+LOG  : General      f:0> Gun_ARX200_cat 1.0
+LOG  : General      f:0> Gun_BAR_cat 1.0
+LOG  : General      f:0> Gun_Berthier_cat 1.0
+LOG  : General      f:0> Gun_C96_cat 1.0
+LOG  : General      f:0> Gun_FAL_cat 1.0
+LOG  : General      f:0> Gun_FN_Evolys_cat 1.0
+LOG  : General      f:0> Gun_Groza_cat 1.0
+LOG  : General      f:0> Gun_HK51_cat 1.0
+LOG  : General      f:0> Gun_LebelM1886_cat 1.0
+LOG  : General      f:0> Gun_lewis_cat 1.0
+LOG  : General      f:0> Gun_M1Garand_cat 1.0
+LOG  : General      f:0> Gun_M14_Albedo 1.0
+LOG  : General      f:0> Gun_M240_cat 1.0
+LOG  : General      f:0> Gun_m1903_cat 1.0
+LOG  : General      f:0> Gun_M1918_cat 1.0
+LOG  : General      f:0> Gun_M1919a6_cat 1.0
+LOG  : General      f:0> Gun_MG3_cat 1.0
+LOG  : General      f:0> Gun_mk47_cat 1.0
+LOG  : General      f:0> Gun_Mosin_Nagant_cat 1.0
+LOG  : General      f:0> Gun_PKM_cat 1.0
+LOG  : General      f:0> Gun_RPK16_cat 1.0
+LOG  : General      f:0> Gun_RSC_cat 1.0
+LOG  : General      f:0> Gun_ScarH_cat 1.0
+LOG  : General      f:0> Gun_SVD_cat 1.0
+LOG  : General      f:0> Gun_SVT40_cat 1.0
+LOG  : General      f:0> Gun_Type81_cat 1.0
+LOG  : General      f:0> Gun_URG_S_cat 1.0
+LOG  : General      f:0> Gun_HoneyBadger_cat 1.0
+LOG  : General      f:0> Gun_LWMMG_cat 1.0
+LOG  : General      f:0> Gun_mg338_cat 1.0
+LOG  : General      f:0> Gun_MK18_cat 1.0
+LOG  : General      f:0> Gun_REAPR_cat 1.0
+LOG  : General      f:0> Gun_AMB17_cat 1.0
+LOG  : General      f:0> Gun_AS_VAL_MOD4_cat 1.0
+LOG  : General      f:0> Gun_BerettaM93R_cat 1.0
+LOG  : General      f:0> Gun_EMP_cat 1.0
+LOG  : General      f:0> Gun_FN57_cat 1.0
+LOG  : General      f:0> Gun_G17_cat 1.0
+LOG  : General      f:0> Gun_G18_cat 1.0
+LOG  : General      f:0> Gun_G19_cat 1.0
+LOG  : General      f:0> Gun_G34_cat 1.0
+LOG  : General      f:0> Gun_KrissVector_cat 1.0
+LOG  : General      f:0> Gun_lugerP08_cat 1.0
+LOG  : General      f:0> Gun_M9A4_cat 1.0
+LOG  : General      f:0> Gun_minigun_cat 1.0
+LOG  : General      f:0> Gun_mp5_cat 1.0
+LOG  : General      f:0> Gun_MP7_cat 1.0
+LOG  : General      f:0> Gun_SIGP226_cat 1.0
+LOG  : General      f:0> Gun_Taran2011_cat 1.0
+LOG  : General      f:0> Gun_Thompson_cat 1.0
+LOG  : General      f:0> Gun_uzi_cat 1.0
+LOG  : General      f:0> Gun_VSSM_cat 1.0
+LOG  : General      f:0> Gun_interceptor_cat 1.0
+LOG  : General      f:0> Gun_AA12_cat 1.0
+LOG  : General      f:0> Gun_BRAuto5_cat 1.0
+LOG  : General      f:0> Gun_ChiappaTripleThreat_cat 1.0
+LOG  : General      f:0> Gun_DP12_cat 1.0
+LOG  : General      f:0> Gun_M870_cat 1.0
+LOG  : General      f:0> Gun_M1887_cat 1.0
+LOG  : General      f:0> Gun_origin12_cat 1.0
+LOG  : General      f:0> Gun_Saiga12_cat 1.0
+LOG  : General      f:0> Gun_Striker12_cat 1.0
+LOG  : General      f:0> Gun_TTI_Benelli_M4_cat 1.0
+LOG  : General      f:0> Gun_UTS15_cat 1.0
+LOG  : General      f:0> Gun_Minigun_cat 1.0
+LOG  : General      f:0> Gun_AS_VAL_cat 1.0
+LOG  : General      f:0> Gun_CycloneAK_cat 1.0
+LOG  : General      f:0> Gun_SW629_cat 1.0
+LOG  : General      f:0> Gun_lee_enfield_cat 1.0
+LOG  : General      f:0> Gun_M16D_cat 1.0
+LOG  : General      f:0> Gun_QBU203_cat 1.0
+LOG  : General      f:0> Gun_nagant_m1895_cat 1.0
+LOG  : General      f:0> Gun_MFS_MTL30_cat 1.0
+LOG  : General      f:0> Gun_MEGA_AR15_cat 1.0
+LOG  : General      f:0> FirearmMultiplier 1.0
+LOG  : General      f:0> ScopeMultiplier 1.0
+LOG  : General      f:0> RightScopeMultiplier 1.0
+LOG  : General      f:0> LeftScopeMultiplier 1.0
+LOG  : General      f:0> MuzzleMultiplier 1.0
+LOG  : General      f:0> StockMultiplier 1.0
+LOG  : General      f:0> GripMultiplier 1.0
+LOG  : General      f:0> LightMultiplier 1.0
+LOG  : General      f:0> LaserMultiplier 1.0
+LOG  : General      f:0> SlingMultiplier 1.0
+LOG  : General      f:0> RecoilPadMultiplier 1.0
+LOG  : General      f:0> BarrelMultiplier 1.0
+LOG  : General      f:0> UnderbarrelMultiplier 1.0
+LOG  : General      f:0> FunctionalMagazineMultiplier 1.0
+LOG  : General      f:0> BayonetDamage 1.0
+LOG  : General      f:0> BayonetStamina 0
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> SellList 
+LOG  : General      f:0> BuyList 
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> GrenadeDamage 3.0
+LOG  : General      f:0> GrenadeRange 3
+LOG  : General      f:0> EnableReticle false
+LOG  : General      f:0> UseCustomWeaponLight true
+LOG  : General      f:0> ExperiencedAim 3
+LOG  : General      f:0> TurnDelaySec 1.0
+LOG  : General      f:0> DisableTurn 2
+LOG  : General      f:0> TurnBehavior 2
+LOG  : General      f:0> HideDoorProgressBar false
+LOG  : General      f:0> HideVehicleWalkProgressBar false
+LOG  : General      f:0> EnableLeftHandAiming true
+LOG  : General      f:0> Enabled true
+LOG  : General      f:0> PivotSpeed 5
+LOG  : General      f:0> MovementTurnSpeed 5
+LOG  : General      f:0> TraitVersion false
+LOG  : General      f:0> NimbleSystem false
+LOG  : General      f:0> NimbleLvlMultiplier 1.0
+LOG  : General      f:0> DefaultMultiplier 1.0
+LOG  : General      f:0> OnYourToesMultiplier 1.3
+LOG  : General      f:0> PodShofeMultiplier 0.4
+LOG  : General      f:0> OnYourToesInGameMultiplier 0.15
+LOG  : General      f:0> PodShofeInGameMultiplier 0.2
+LOG  : General      f:0> DynamicModifiers false
+LOG  : General      f:0> DynEncumbrance false
+LOG  : General      f:0> DynInjury false
+LOG  : General      f:0> DynFatigue false
+LOG  : General      f:0> DynDrunkenness false
+LOG  : General      f:0> DynPanic false
+LOG  : General      f:0> DynSneak false
+LOG  : General      f:0> DividerMusicNew true
+LOG  : General      f:0> DividerDancingNew true
+LOG  : General      f:0> DividerMeditationNew true
+LOG  : General      f:0> DividerHygiene true
+LOG  : General      f:0> DividerArt true
+LOG  : General      f:0> Toggle true
+LOG  : General      f:0> StrengthMultiplier 2
+LOG  : General      f:0> ListeningStrengthMultiplier 2
+LOG  : General      f:0> LearningChance 3
+LOG  : General      f:0> Metabolics 1
+LOG  : General      f:0> StrengthMultiplier 2
+LOG  : General      f:0> StrengthMultiplier 2
+LOG  : General      f:0> MindfulnessDuration 2
+LOG  : General      f:0> HealFactor 2.0
+LOG  : General      f:0> EffectMultiplier 2
+LOG  : General      f:0> RemoveLevitation false
+LOG  : General      f:0> KeepBags false
+LOG  : General      f:0> StrengthMultiplier 2
+LOG  : General      f:0> Exhaustion 3
+LOG  : General      f:0> Embarrassment 2
+LOG  : General      f:0> AidObjects true
+LOG  : General      f:0> RequiresMat false
+LOG  : General      f:0> KeepBags false
+LOG  : General      f:0> FailChance 4
+LOG  : General      f:0> YogaXPMultiplier 1.0
+LOG  : General      f:0> FitnessXPMultiplier 1.0
+LOG  : General      f:0> NimbleXPMultiplier 1.0
+LOG  : General      f:0> HygieneNeedMultiplier 1.0
+LOG  : General      f:0> BladderNeedMultiplier 1.0
+LOG  : General      f:0> HygieneNeedExpectationTime 2
+LOG  : General      f:0> CleansMakeup true
+LOG  : General      f:0> NotEmbarrassed false
+LOG  : General      f:0> CleanClogged false
+LOG  : General      f:0> ColdSeverity 2
+LOG  : General      f:0> ColdChanceMultiplier 0.0
+LOG  : General      f:0> OuthouseRange 10
+LOG  : General      f:0> CleaningExpectationTime 2
+LOG  : General      f:0> CleaningLitterChance 3
+LOG  : General      f:0> GeneralBeautyMultiplier 1.0
+LOG  : General      f:0> BeautyOutdoors false
+LOG  : General      f:0> BeautyShowNegative false
+LOG  : General      f:0> BeautyNeedDecayRate 3
+LOG  : General      f:0> BeautyNeedStrength 3
+LOG  : General      f:0> ArtworkBeautyMultiplier 1.0
+LOG  : General      f:0> Cooldown 36
+LOG  : General      f:0> MaxInProgress 1
+LOG  : General      f:0> MaxTotal 3
+LOG  : General      f:0> ResetException false
+LOG  : General      f:0> HideTips false
+LOG  : General      f:0> LSDividerOther false
+LOG  : General      f:0> DynamicTraits false
+LOG  : General      f:0> DynamicTraitsReverse 1
+LOG  : General      f:0> ComfortNeedMultiplier 1.0
+LOG  : General      f:0> ComfortPositive false
+LOG  : General      f:0> ComfortNoImpact false
+LOG  : General      f:0> DividerServer false
+LOG  : General      f:0> ModdataUpdate 1
+LOG  : General      f:0> MoodUpdate 1
+LOG  : General      f:0> DividerDebug false
+LOG  : General      f:0> MoodlePriority false
+LOG  : General      f:0> Expressions false
+LOG  : General      f:0> DanceAnim false
+LOG  : General      f:0> LSVerbose false
+LOG  : General      f:0> Art 1.0
+LOG  : General      f:0> Cleaning 1.0
+LOG  : General      f:0> Dancing 1.0
+LOG  : General      f:0> Meditation 1.0
+LOG  : General      f:0> Music 1.0
+LOG  : General      f:0> ZombieOnly false
+LOG  : General      f:0> [ZB] patching zombie.LoadGridsquarePerformanceWorkaround$ItemPicker.checkObject with 1 advice(s)
+LOG  : General      f:0> [ZB] hasMultipleSignatures: false, hasAllArguments: false, hasNoParamMethod: false, inferredTypes: null
+LOG  : General      f:0> [ZB] Transformed: zombie.LoadGridsquarePerformanceWorkaround$ItemPicker (new load)
+LOG  : Lua          f:0> :	[CompanionDogs 0.7.4] [CD-SPAWN] chave de memo de chunk por square(0,0,0) (fallback: chunk sem square em z=0 fica FORA do memo)
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATA2InteractiveTrunkRoofRack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Roofrack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: DAMNGunrack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATA2InteractiveTrunkRoofRack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8091,11570,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8091,11571,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8091,11572,-1
+LOG  : Lua          f:0> :	[PropaneCabinet] spawn roll for station/store at 8072,11522: rolled 85, needs below 50 -> FAIL
+LOG  : Lua          f:0> :	[PropaneCabinet] skipped station/store at 8072,11522 (spawn chance roll failed)
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8089,11561,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8089,11562,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8089,11563,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8089,11564,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8090,11564,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8091,11564,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8091,11565,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8091,11566,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8081,11566,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8082,11566,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8085,11566,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8086,11566,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8087,11561,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8087,11562,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8087,11563,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8087,11564,-1
+LOG  : Lua          f:0> :	MOWoodenWalFrame.lua: replacing isoObject at 8087,11565,-1
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Roofrack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: portablemicrowave
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Roofrack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: CVPI92Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATA2InteractiveTrunkRoofRack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: M60A3_105mm_Driver
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: M240_Coax_Driver
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: AmmoStor
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: TankRoof
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: SeatGunner
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATA2InteractiveTrunkRoofRack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATA2InteractiveTrunkRoofRack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATA2InteractiveTrunkRoofRack
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: KI5TRTrunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: KI5TRToolBox
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATABagMotoLeft
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATABagMotoRight
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATABagMotoHolsterLeft
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: ATABagMotoHolsterRight
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Trunk
+LOG  : General      f:0> ItemPickInfo -> cannot get ID for container: HLX88Roofrack
+LOG  : General      f:0> Reseeding weather period, new seed: 664257
+LOG  : Lua          f:0> :	[CompanionDogs 0.7.4] running Companion Dogs 0.7.4 (2026-09-04) | sp | caes=0 comp=0 | mods: CompanionDogs 0.7.4, CompanionDogsDoberman 0.1.0, CompanionDogsPomeranian 0.2.10
+LOG  : Lua          f:0> :	[TheyKnew Fix] Hazmat spawn chance applied: 0.3
+LOG  : Lua          f:0> :	[HGTS] StormMood Local runner ENABLED (isMultiplayer=false)
+ERROR: General      f:0 at KahluaThread.flushErrorMessage      > dumping Lua stack trace
+-----------------------------------------
+STACK TRACE
+-----------------------------------------
+	Lua(Vanilla).addModOptionsPanel(MainOptions.lua:3025)
+	Lua((MOD:Viewpoint)).addModOptionsPanel(Viewpoint_Options.lua:236)
+	Lua(Vanilla).create(MainOptions.lua:410)
+	Lua(Vanilla).instantiate(MainScreen.lua:694)
+	Lua((MOD:Lifestyle: Hobbies)).instantiate(MainScreenHook.lua:254)
+	Lua(Vanilla).addToUIManager(ISUIElement.lua:1367)
+	Lua(Vanilla).LoadMainScreenPanelInt(MainScreen.lua:1791)
+	Lua(Vanilla).LoadMainScreenPanelIngame(MainScreen.lua:1785)
+ERROR: General      f:0> Lua(Vanilla).addModOptionsPanel> Exception thrown
+	java.util.UnknownFormatConversionException: Conversion = ')' at Formatter.parse(null:-1).
+	Stack trace:
+		java.base/java.util.Formatter.parse(Unknown Source)
+		java.base/java.util.Formatter.format(Unknown Source)
+		java.base/java.util.Formatter.format(Unknown Source)
+		java.base/java.lang.String.format(Unknown Source)
+		zombie.debug.DebugLogStream.printException(DebugLogStream.java:637)
+		zombie.debug.DebugType.printException(DebugType.java:300)
+		zombie.core.Translator.reportMissingArgumentsFromPastAbuse(Translator.java:515)
+		zombie.core.Translator.getText(Translator.java:502)
+		zombie.Lua.LuaManager$GlobalObject.getText(LuaManager.java:7279)
+		java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+		java.base/java.lang.reflect.Method.invoke(Unknown Source)
+		se.krka.kahlua.integration.expose.caller.MethodCaller.call(MethodCaller.java:58)
+		se.krka.kahlua.integration.expose.LuaJavaInvoker.call(LuaJavaInvoker.java:194)
+		se.krka.kahlua.integration.expose.LuaJavaInvoker.call(LuaJavaInvoker.java:184)
+		se.krka.kahlua.vm.KahluaThread.callJava(KahluaThread.java:178)
+		Lua(Vanilla).addModOptionsPanel(MainOptions.lua:3025)
+		Lua((MOD:Viewpoint)).addModOptionsPanel(Viewpoint_Options.lua:236)
+		Lua(Vanilla).create(MainOptions.lua:410)
+		Lua(Vanilla).instantiate(MainScreen.lua:694)
+		Lua((MOD:Lifestyle: Hobbies)).instantiate(MainScreenHook.lua:254)
+		Lua(Vanilla).addToUIManager(ISUIElement.lua:1367)
+		Lua(Vanilla).LoadMainScreenPanelInt(MainScreen.lua:1791)
+		Lua(Vanilla).LoadMainScreenPanelIngame(MainScreen.lua:1785)
+		se.krka.kahlua.vm.KahluaThread.luaMainloop(KahluaThread.java:795)
+		se.krka.kahlua.vm.KahluaThread.call(KahluaThread.java:162)
+		se.krka.kahlua.vm.KahluaThread.pcall(KahluaThread.java:1740)
+		se.krka.kahlua.vm.KahluaThread.pcallvoid(KahluaThread.java:1572)
+		se.krka.kahlua.integration.LuaCaller.pcallvoid(LuaCaller.java:60)
+		se.krka.kahlua.integration.LuaCaller.protectedCallVoid(LuaCaller.java:131)
+		zombie.Lua.Event.trigger(Event.java:55)
+		zombie.Lua.LuaEventManager.triggerEvent(LuaEventManager.java:248)
+		zombie.gameStates.IngameState.enter(IngameState.java:775)
+		zombie.gameStates.GameStateMachine.update(GameStateMachine.java:95)
+		zombie.GameWindow.logic(GameWindow.java:390)
+		zombie.GameWindow.frameStep(GameWindow.java:790)
+		zombie.GameWindow.mainThreadStep(GameWindow.java:567)
+		zombie.MainThread.mainLoop(MainThread.java:69)
+		java.base/java.lang.Thread.run(Unknown Source)
+LOG  : General      f:0> binkId: 6
+LOG  : Lua          f:0> :	[AutoAll] loaded: Cook, Cook menu, Read, Clean, Sterilize, Dismantle, Rip, Tailoring, Mechanics, Reload, VHS, Medicine, Open, Cookbook, Panel, Exercise
+LOG  : Lua          f:0> :	[AutoAll] server sandbox options for AutoAll are present.
+LOG  : Lua          f:0> :	[Nav] opts.apply 
+LOG  : Lua          f:0> :	[Nav] Options.RenderOnlyNav 	false
+LOG  : Lua          f:0> :	[Nav] Options.RenderOnlyCar 	true
+LOG  : Lua          f:0> :	[Nav] Options.Debug 	None
+LOG  : Lua          f:0> :	[Nav] Options.Traj 	false
+LOG  : Lua          f:0> :	[Nav] Options.WidthFilter 	false
+LOG  : Lua          f:0> :	[Nav] Options.RoadLine 	false
+LOG  : Lua          f:0> :	[Nav] Options.NavLine 	true
+LOG  : Lua          f:0> :	[Nav] Options.BAnimalAvoid 	true
+LOG  : Lua          f:0> :	[Nav] Options.SAnimalAvoid 	false
+LOG  : Lua          f:0> :	[Nav] Options.ZombieAvoid 	true
+LOG  : Lua          f:0> :	[Nav] Options.ZombieSlowdown 	true
+LOG  : Lua          f:0> :	[Nav] Options.TrafficSlowdown 	true
+LOG  : Lua          f:0> :	[Nav] Options.FPSSlowdown 	false
+LOG  : Lua          f:0> :	[Nav] Options.Railroad 	false
+LOG  : Lua          f:0> :	[Nav] Options.Dirtroad 	false
+LOG  : Lua          f:0> :	[Nav] Options.RemoveBackPath 	true
+LOG  : Lua          f:0> :	[Nav] Options.Pause 	true
+LOG  : Lua          f:0> :	[Nav] Options.AutoDoor 	false
+LOG  : Lua          f:0> :	[Nav] Options.LoadModMaps 	false
+LOG  : Lua          f:0> :	[Nav] Options.Performance 	3
+LOG  : Lua          f:0> :	[Nav] Options.RoutePlanner 	1
+LOG  : Lua          f:0> :	[Nav] Options.RoadStitching 	1
+LOG  : Lua          f:0> :	[Nav] Options.MotionController 	1
+LOG  : Lua          f:0> :	[Nav] Options.TrajGenerator 	1
+LOG  : Lua          f:0> :	[Nav] Options.CompatibilityContext 	false
+LOG  : Lua          f:0> :	[Nav] Options.ManualStreets 	false
+LOG  : Lua          f:0> :	[Nav] Options.DisableNano 	false
+LOG  : Lua          f:0> :	[Nav] Options.SpeedDync 	true
+LOG  : Lua          f:0> :	[Nav] Options.SpeedLimit 	90
+LOG  : Lua          f:0> :	[Nav] Options.RotateSpeed 	180
+LOG  : Lua          f:0> :	[Nav] Options.KeepRight 	0
+LOG  : Lua          f:0> :	[Nav] Options.KeepRight 	0
+LOG  : Lua          f:0> :	[Nav] Options.NoDamage 	false
+LOG  : Lua          f:0> :	[Nav] Options.EngineLimit 	50
+LOG  : Lua          f:0> :	[Nav] Options.ReCalcPath 	30
+LOG  : Lua          f:0> :	[Nav] Options.SlowRate 	0.45
+LOG  : Lua          f:0> :	[Nav] Options.WidthEx 	1
+LOG  : Lua          f:0> :	[Nav] Options.FrenetEx 	2
+LOG  : Lua          f:0> :	[Nav] Options.VehicleEx 	0.5
+LOG  : Lua          f:0> :	[Nav] Options.ObstacleEx 	0.5
+LOG  : Lua          f:0> :	[Nav] Options.ObstacleForward 	1
+LOG  : Lua          f:0> :	[Nav] Options.ObstacleBackward 	1
+LOG  : Lua          f:0> :	[Nav] Options.Experimental 	false
+LOG  : Lua          f:0> :	Options.FarDistance	256
+LOG  : Lua          f:0> :	Options.GridDistance	88
+LOG  : Lua          f:0> :	Options.ScanDistance	88
+LOG  : Lua          f:0> :	Options.FrenetDist	80
+LOG  : Lua          f:0> :	Options.FrenetStep	1
+LOG  : Lua          f:0> :	Options.Faild_Dist	12
+LOG  : Lua          f:0> :	Options.Girds_Timeout	0.5
+LOG  : Lua          f:0> :	Options.Girds_Cycle	150
+LOG  : Lua          f:0> :	Options.Optimize_Timeout	1.5
+LOG  : Lua          f:0> :	Options.Optimize_Skip	5
+LOG  : Lua          f:0> :	Options.Optimize_SkipD	0.7
+LOG  : Lua          f:0> :	Options.Optimize_ExitRMS	15
+LOG  : Lua          f:0> :	Options.Optimize_ExitDif	0.5
+LOG  : Lua          f:0> :	Options.Optimize_Backward	true
+LOG  : Lua          f:0> :	Options.Soft_Boundary_Obj	0.4
+LOG  : Lua          f:0> :	Options.Soft_Boundary_Zom	1.2
+LOG  : Lua          f:0> :	Options.SpeedStep1	0.5
+LOG  : Lua          f:0> :	Options.SpeedStep2	0.4
+LOG  : Lua          f:0> :	Options.CostForward	0
+LOG  : Lua          f:0> :	Options.CostBackward	1
+LOG  : Lua          f:0> :	Options.DownForce	false
+LOG  : Lua          f:0> :	Options.Cost_Movement	0.1
+LOG  : Lua          f:0> :	Options.Cost_Timeout	300
+LOG  : Lua          f:0> :	Options.Corridor_Timeout	900
+LOG  : Lua          f:0> :	Options.ScanFunc	2
+LOG  : Lua          f:0> :	Options.ScanLimit	false
+LOG  : Lua          f:0> :	Options.FindAndPickFunc	2
+LOG  : Lua          f:0> :	Options.CorridorFunc	2
+LOG  : Lua          f:0> :	Options.SpeedDelayCalc	true
+LOG  : Lua          f:0> :	Options.forceWidthSub	false
+LOG  : Lua          f:0> :	Options.Corridor_Find_Params	0.3	0.5	0.2	0.5
+LOG  : Lua          f:0> :	Options.Corridor_Pick_Params	0.4	0.5	0.2	0.5
+LOG  : Lua          f:0> :	Options.Corridor_Check_Params	0.3	0.45	0.3	1
+LOG  : Lua          f:0> :	Options.Cost_Find_Params	0.5	0.7	0.2	0.5
+LOG  : Lua          f:0> :	Options.Cost_Pick_Params	0.5	0.7	0.2	0.5
+LOG  : Lua          f:0> :	Options.Cost_Check_Params	0.35	0.5	0.2	0.5
+LOG  : Lua          f:0> :	Options.Corridor_Params	0.25	0.35	0.2	0.5
+LOG  : Lua          f:0> :	Options.SteeringFunc	1
+LOG  : Lua          f:0> :	Options.ApplyFunc	1
+LOG  : Lua          f:0> :	Options.SteeringLimit	5
+LOG  : Lua          f:0> :	==================================================
+LOG  : Lua          f:0> :	[True Weight] Loaded correctly!
+LOG  : Lua          f:0> :	[True Weight] A total of 1422 items have been rebalanced.
+LOG  : Lua          f:0> :	==================================================
+LOG  : Lua          f:0> :	[RL] Ground Zero GameTime patch not loaded
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_200.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_201.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_203_C.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_203_S.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_203_W.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_204.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_205.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_206.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_207.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_208.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_209.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_210.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_Ad.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\TV_Static.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\VHS_CarZone.bik.
+LOG  : General      f:0> binkId: -1
+LOG  : General      f:0> Unable to load video texture C:\Users\WITHUS\Desktop\Project.Zomboid.v42.20.4\Project.Zomboid.v42.20.4\media\videos\..\..\..\..\workshop\content\108600\3420581050\mods\TVRadio Reinvented\42\media\videos\VHS_Noise.bik.
+LOG  : Lua          f:0> :	[AutoFishing] Compatibility patch installed: Protected fishing actions from acceleration.
+LOG  : Lua          f:0> :	[AutoFishing] Loaded Build 42 Version v6.1 (Compatibility Patch)
+LOG  : Lua          f:0> :	RPG -> RequestSync completed (SP/MP)
+LOG  : Lua          f:0> :	PAR U-24 ISHotbar chain | attachItem=pas-de-point-d-accroche removeItem=pas-de-point-d-accroche
+LOG  : Lua          f:0> :	[ImmersiveSnow] breath off: ColdBreath draws breath already
+LOG  : Lua          f:0> :	[MFSPerformanceSafety] version 1.4.0 loaded; ShowMagazine=true, renderer=true, heartbeat=true, grenade=false, shield=disabled-no-items; no gun, ammo, chamber, inventory, or save data is replaced
+LOG  : Lua          f:0> :	[MFS] TwoHandGripFix 1.1.0 active
+LOG  : Lua          f:0> :	[MFSBatterySet] version 1.3.0 installed; top-up allowed below 100; combine-and-cap ACTIVE; light charge store ACTIVE
+LOG  : Lua          f:0> :	[MFSFireMode] version 1.0.0 installed; bind=SwitchFireModeCat
+LOG  : Lua          f:0> :	[MFSGunLight] version 1.1.1-rc1-mp installed; bind=SwtichLightSet; drain=0.1/min
+LOG  : Lua          f:0> :	FH B42.19: Door handling patched
+LOG  : Lua          f:0> :	FH B42.19: Performing API compatibility checks...
+LOG  : Lua          f:0> :	FH B42.19:  All critical APIs present!
+LOG  : Lua          f:0> :	FH B42.19: Initialization complete
+LOG  : Lua          f:0> :	FH B42.19: Version 2.0-B42.19
+LOG  : Lua          f:0> :	[PIP] init -- debug=false isServer=false isClient=false
+LOG  : Lua          f:0> :	[CHEAT MENU] User Bob is authorized! This message will appear the next time the client connects.
+LOG  : General      f:0> [Viewpoint] animals: LOG  : General      f:0> 20LOG  : General      f:0>  animation sets and action groups loaded with the game in LOG  : General      f:0> 2214LOG  : General      f:0>  msLOG  : General      f:0> 
+LOG  : General      f:0> [Viewpoint] Bob_WalkNoAim1Hand_DiagR: its root motion turned to the right
+LOG  : General      f:0> [Viewpoint] setup shown: first person waits until it is finished
+LOG  : General      f:0> [Viewpoint] settings window: ImGui ready
+LOG  : Lua          f:1> :	PSR_Server: R-86 -- passe 1 : 0 ms | banks 0 | sondees 0 / retenues 0 (0.0x) | objets 0 | 0.0 objets/case
+LOG  : Lua          f:1> :	[Debug] getAimCoords return type: number
+LOG  : Lua          f:1> :	[Debug] First value is number: 8084.6875
+LOG  : Lua          f:1> :	[Debug] Multiple returns: 8084.6875, 11548, nil
+LOG  : Lua          f:1> :	[RPG XP][SP] OnTick fired; isMultiplayer=false
+LOG  : Lua          f:1> :	[PropaneCabinet] cabinet integrity check complete -- no further checks will run on this save.
+LOG  : Lua          f:1> :	[ImmersiveSnow] long frame 278 ms; ours before it: vehicles 0 ms (0 switches, 0 variants, 0 shells), zombies 0 rebuilds 0 ms
+LOG  : General      f:3> [ZB] patching zombie.EffectsManager.startMuzzleFlash with 1 advice(s)
+LOG  : General      f:3> [ZB] hasMultipleSignatures: false, hasAllArguments: false, hasNoParamMethod: false, inferredTypes: null
+LOG  : General      f:3> [ZB] Transformed: zombie.EffectsManager (new load)
+LOG  : Lua          f:4> :	[Nav] nav.dijkstra_path	6771
+LOG  : Lua          f:4> :	[Nav] nav.step	gen_dijkstra_path	 -> 	push_render	44201
+LOG  : Lua          f:5> :	[Nav] Step 	push_render	 -> 	idle	46
+LOG  : Lua          f:6> :	StreetRender:new
+LOG  : Lua          f:6> :	StreetRender:new()
+LOG  : Lua          f:7> :	[RPG Equipment][SP] equipped bonuses updated: none
+LOG  : Lua          f:15> :	[RPG Collector][SP] kill counter baseline=0
+LOG  : Lua          f:15> :	[RPG XP][SP] client watcher active, recorded kills=0
+LOG  : Lua          f:15> :	[RPG XP][SP] baseline established at 0 kills
+LOG  : General      f:130> [Viewpoint] video memory: 2 evictions (16 MiB) in 0.5 s, 5209 MiB of 8188 free
+LOG  : General      f:130> [Viewpoint] video memory: 2 evictions (16 MiB) in 0.5 s, 5209 MiB of 8188 free
+LOG  : General      f:130> [Viewpoint] setup's hardware check: NVIDIA GeForce RTX 4060 Ti/PCIe/SSE2 (NVIDIA Corporation), video memory 8188 MiB (5209 free), the game's textures 6710 MiB (compression on), its isometric chunk textures 228 MiB, memory 32619 MiB (2625 free, the game's process 6338), heap 24576 MiB, 16 threads, 1920 x 1080; advised High, far world workers 4
+LOG  : General      f:130> [Viewpoint] setup's hardware check: NVIDIA GeForce RTX 4060 Ti/PCIe/SSE2 (NVIDIA Corporation), video memory 8188 MiB (5209 free), the game's textures 6710 MiB (compression on), its isometric chunk textures 228 MiB, memory 32619 MiB (2594 free, the game's process 6339), heap 24576 MiB, 16 threads, 1920 x 1080; advised High, far world workers 4
+LOG  : General      f:130> [Viewpoint] settings window off after an error: java.lang.IllegalStateException: camera.headMovement is not declared as the setup draws
+LOG  : Lua          f:131> :	[ImmersiveSnow] long frame 225 ms; ours before it: vehicles 0 ms (0 switches, 0 variants, 0 shells), zombies 0 rebuilds 0 ms
+LOG  : General      f:772> [Viewpoint] setup cannot show (the game's ImGui is on, or the window failed): first person goes on without it
+LOG  : General      f:772> [Viewpoint] first person stays off: this is not the game build the mod supports (see the line at load)
+LOG  : Lua          f:1105> :	SafeUserLogin: Login Protection Disabled
+LOG  : General      f:1464> [Viewpoint] video memory: 1 evictions (1 MiB) in 0.5 s, 5212 MiB of 8188 free
+LOG  : General      f:1700> [Viewpoint] video memory: 2 evictions (16 MiB) in 0.5 s, 5212 MiB of 8188 free
+LOG  : General      f:1700> [Viewpoint] video memory: 2 evictions (16 MiB) in 0.5 s, 5211 MiB of 8188 free
+LOG  : General      f:1701> Saving worldgen params
+LOG  : Lua          f:1701> :	ISMiniHealth(): Opened config file for writing...
+LOG  : Lua          f:1701> :	ISMiniHealth(): Closed config file.
+LOG  : General      f:1701> Saving GlobalModData
+LOG  : Lua          f:1701> :	removing all player data
+LOG  : Lua          f:1701> :	- player: 0
+LOG  : Lua          f:1701> :	removing tuningUI
+LOG  : Lua          f:1701> :	removing all player data
+LOG  : Lua          f:1701> :	- player: 0
+LOG  : General      f:1701> GameThread exited.
