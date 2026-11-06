@@ -1,0 +1,197 @@
+characterOutline
+  zombie/core/skinnedmodel/model/ModelSlotRenderData.class
+
+outlineColor
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ModelOutlines.class
+  zombie/core/skinnedmodel/model/ModelSlotRenderData.class
+  zombie/iso/IsoObject$OutlineShader.class
+  zombie/iso/IsoObject.class
+  zombie/iso/fboRenderChunk/FBORenderObjectOutline$Drawer2.class
+  zombie/iso/fboRenderChunk/FBORenderTrees.class
+  zombie/iso/objects/IsoTree$TreeShader.class
+  zombie/ui/AtomUIText.class
+
+outlineBehindPlayer
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ModelSlotRenderData.class
+  zombie/iso/fboRenderChunk/FBORenderObjectOutline$Drawer2.class
+
+updateModelTextures
+  zombie/characters/IsoGameCharacter.class
+
+modelScript
+  zombie/characters/IsoGameCharacter.class
+  zombie/characters/animals/IsoAnimal.class
+  zombie/core/physics/BallisticsController.class
+  zombie/core/skinnedmodel/ModelManager.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel.class
+  zombie/core/skinnedmodel/model/IsoObjectAnimations$AnimatedObject.class
+  zombie/core/skinnedmodel/model/IsoObjectAnimations.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer$WeaponPartParams.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelInstance.class
+  zombie/core/skinnedmodel/model/ModelInstanceDebugRenderData.class
+  zombie/core/skinnedmodel/model/ModelInstanceRenderData.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$WeaponPartParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas.class
+  zombie/core/skinnedmodel/visual/HumanVisual.class
+  zombie/gameStates/AnimationViewerState.class
+  zombie/gameStates/AttachmentEditorState.class
+  zombie/gameStates/SpriteModelEditorState.class
+  zombie/inventory/types/Food.class
+  zombie/iso/SpriteModel.class
+  zombie/iso/SpriteModelsFile.class
+  zombie/iso/fboRenderChunk/FBORenderTracerEffects.class
+  zombie/iso/objects/IsoMannequin.class
+  zombie/scripting/ScriptManager.class
+  zombie/scripting/objects/MannequinScript.class
+  zombie/scripting/objects/ModelScript.class
+  zombie/spriteModel/TilesetImageCreator.class
+  zombie/vehicles/BaseVehicle$ModelInfo.class
+  zombie/vehicles/BaseVehicle.class
+  zombie/vehicles/EditVehicleState.class
+  zombie/vehicles/UI3DScene$ModelDrawer.class
+  zombie/vehicles/UI3DScene$ModelRenderData.class
+  zombie/vehicles/UI3DScene$SceneCharacter.class
+  zombie/vehicles/UI3DScene$SceneModel.class
+  zombie/vehicles/UI3DScene$SceneVehicle.class
+  zombie/vehicles/UI3DScene$SceneVehicleModelInfo.class
+  zombie/vehicles/UI3DScene$VehicleRenderData.class
+  zombie/vehicles/UI3DScene.class
+
+matrixPalette
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel$AnimatedModelInstanceRenderData.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel.class
+  zombie/core/skinnedmodel/model/IsoObjectAnimations$MatrixPaletteForFrame.class
+  zombie/core/skinnedmodel/model/IsoObjectAnimations.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/shader/Shader.class
+  zombie/spriteModel/TilesetImageCreator.class
+  zombie/vehicles/UI3DScene$ModelDrawer.class
+  zombie/vehicles/UI3DScene$VehicleDrawer.class
+  zombie/vehicles/UI3DScene$VehicleModelRenderData.class
+  zombie/vehicles/UI3DScene$VehicleRenderData.class
+
+tintR
+  zombie/characterTextures/CharacterSmartTexture.class
+  zombie/characters/IsoGameCharacter.class
+  zombie/core/skinnedmodel/ModelManager.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel$StateInfo.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelInstance.class
+  zombie/core/skinnedmodel/model/ModelInstanceRenderData.class
+  zombie/core/skinnedmodel/model/ModelInstanceTextureCreator.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas.class
+  zombie/core/skinnedmodel/population/PopTemplateManager.class
+  zombie/core/skinnedmodel/shader/Shader.class
+  zombie/iso/fboRenderChunk/FBORenderCorpses$BodyParams.class
+  zombie/iso/fboRenderChunk/FBORenderCorpses$RenderJob.class
+
+tintG
+  zombie/characterTextures/CharacterSmartTexture.class
+  zombie/characters/IsoGameCharacter.class
+  zombie/core/skinnedmodel/ModelManager.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel$StateInfo.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelInstance.class
+  zombie/core/skinnedmodel/model/ModelInstanceRenderData.class
+  zombie/core/skinnedmodel/model/ModelInstanceTextureCreator.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas.class
+  zombie/core/skinnedmodel/population/PopTemplateManager.class
+  zombie/core/skinnedmodel/shader/Shader.class
+  zombie/iso/fboRenderChunk/FBORenderCorpses$BodyParams.class
+  zombie/iso/fboRenderChunk/FBORenderCorpses$RenderJob.class
+
+tintB
+  zombie/characterTextures/CharacterSmartTexture.class
+  zombie/characters/IsoGameCharacter.class
+  zombie/core/skinnedmodel/ModelManager.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel$StateInfo.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelInstance.class
+  zombie/core/skinnedmodel/model/ModelInstanceRenderData.class
+  zombie/core/skinnedmodel/model/ModelInstanceTextureCreator.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas.class
+  zombie/core/skinnedmodel/population/PopTemplateManager.class
+  zombie/core/skinnedmodel/shader/Shader.class
+  zombie/iso/fboRenderChunk/FBORenderCorpses$BodyParams.class
+  zombie/iso/fboRenderChunk/FBORenderCorpses$RenderJob.class
+
+hue
+  zombie/characterTextures/ItemSmartTexture.class
+  zombie/core/Color.class
+  zombie/core/ImmutableColor.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel$AnimatedModelInstanceRenderData.class
+  zombie/core/skinnedmodel/advancedanimation/AnimatedModel.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/ModelInstance.class
+  zombie/core/skinnedmodel/model/ModelInstanceRenderData.class
+  zombie/core/skinnedmodel/model/ModelInstanceTextureCreator$ItemData.class
+  zombie/core/skinnedmodel/model/ModelInstanceTextureCreator.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/population/ClothingItemReference$RandomData.class
+  zombie/core/skinnedmodel/population/ClothingItemReference.class
+  zombie/core/skinnedmodel/population/DefaultClothing$Clothing.class
+  zombie/core/skinnedmodel/population/DefaultClothing.class
+  zombie/core/skinnedmodel/shader/Shader.class
+  zombie/core/skinnedmodel/visual/ItemVisual.class
+  zombie/core/textures/SmartTexture.class
+  zombie/vehicles/BaseVehicle.class
+  org/lwjgl/util/Color.class
+  imgui/ImColor.class
+
+ambientR
+  zombie/core/skinnedmodel/DeadBodyAtlas.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelSlotRenderData.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/shader/Shader.class
+
+ambientG
+  zombie/core/skinnedmodel/DeadBodyAtlas.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelSlotRenderData.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/shader/Shader.class
+
+ambientB
+  zombie/core/skinnedmodel/DeadBodyAtlas.class
+  zombie/core/skinnedmodel/model/IsoObjectModelDrawer.class
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/Model.class
+  zombie/core/skinnedmodel/model/ModelSlotRenderData.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$ItemParams.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
+  zombie/core/skinnedmodel/shader/Shader.class
+
+checkSmartTexture
+  zombie/core/skinnedmodel/model/ItemModelRenderer.class
+  zombie/core/skinnedmodel/model/WorldItemAtlas$RenderJob.class
